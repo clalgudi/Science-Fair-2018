@@ -1,0 +1,18 @@
+Sample ID	Cancer Type	Protein Change	Annotation	Functional Impact	Mutation Type	Copy #	COSMIC	MS	VS	Center	Chromosome	Start Pos	End Pos	Ref	Var	Allele Freq (T)	Allele Freq (N)	Variant Reads	Ref Reads	Variant Reads (N)	Ref Reads (N)	# Mut in Sample
+TCGA-DA-A1HV-06		E90K			Missense_Mutation		2	Somatic	NA	broad.mit.edu	1	101186235	101186235	G	A			5	18	-1	-1	
+TCGA-FS-A4F5-06		E410K			Missense_Mutation		1	Somatic	NA	broad.mit.edu	1	101196777	101196777	G	A			23	8	-1	-1	
+TCGA-EE-A29D-06		G581E			Missense_Mutation		3	Somatic	NA	broad.mit.edu	1	101198190	101198190	G	A			22	29	-1	-1	
+TCGA-D3-A3MR-06		G581E			Missense_Mutation		3	Somatic	NA	broad.mit.edu	1	101198190	101198190	G	A			40	144	-1	-1	
+TCGA-D3-A51T-06		P55L			Missense_Mutation		1	Somatic	NA	broad.mit.edu	1	101186131	101186131	C	T			16	25	-1	-1	
+TCGA-DA-A3F8-06		V427A			Missense_Mutation		2	Somatic	NA	broad.mit.edu	1	101196829	101196829	T	C			8	45	-1	-1	
+TCGA-EE-A181-06		S318F			Missense_Mutation		1	Somatic	NA	broad.mit.edu	1	101194687	101194687	C	T			33	23	-1	-1	
+TCGA-EE-A2GC-06		P629S			Missense_Mutation		1	Somatic	NA	broad.mit.edu	1	101200150	101200150	C	T			12	22	-1	-1	
+TCGA-EE-A2GI-06		L594*			Frame_Shift_Del			Somatic	---	broad.mit.edu	1	101198228	101198228	T	-			17	34	-1	-1	
+TCGA-EE-A2MD-06		E526K			Missense_Mutation		1	Somatic	NA	broad.mit.edu	1	101198024	101198024	G	A			35	55	-1	-1	
+TCGA-EE-A2MF-06		V192A			Missense_Mutation			Somatic	NA	broad.mit.edu	1	101188810	101188810	T	C			49	77	-1	-1	
+TCGA-EE-A2MP-06		E640K			Missense_Mutation		3	Somatic	NA	broad.mit.edu	1	101200183	101200183	G	A			8	14	-1	-1	
+TCGA-FW-A3R5-06		G581R			Missense_Mutation		3	Somatic	NA	broad.mit.edu	1	101198189	101198189	G	A			55	137	-1	-1	
+TCGA-FS-A1Z3-06		F470L			Missense_Mutation		1	Somatic	NA	broad.mit.edu	1	101196957	101196957	T	C			20	29	-1	-1	
+TCGA-FW-A3R5-06		E305K			Missense_Mutation		1	Somatic	NA	broad.mit.edu	1	101190431	101190431	G	A			10	62	-1	-1	
+TCGA-FW-A3R5-06		E362K			Missense_Mutation		1	Somatic	NA	broad.mit.edu	1	101194818	101194818	G	A			56	125	-1	-1	
+TCGA-GN-A267-06		Y35S			Missense_Mutation		1	Somatic	NA	broad.mit.edu	1	101186071	101186071	A	C			35	56	-1	-1	

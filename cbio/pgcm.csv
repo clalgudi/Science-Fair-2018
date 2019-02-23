@@ -1,0 +1,96 @@
+Gene A,Gene B,p-Value,Log Odds Ratio,Association,Methylation (Pearson & Spearman both),Methylation (Spearman only),File
+IRF1,IFNG,<0.001,>3,Co-occurence,IRF1,None,./plots-ifng-irf1.txt
+IRF1,STAT1,<0.001,>3,Co-occurence,IRF1,STAT1,./plots-stat1-irf1.txt
+PSMB9,IFNG,<0.001,1.839,Co-occurence,PSMB9,None,./plots-ifng-psmb9.txt
+PSMB9,IRF1,<0.001,2.323,Co-occurence,PSMB9,None,./plots-irf1-psmb9.txt
+IRF1,PSMB9,<0.001,2.323,Co-occurence,IRF1,None,./plots-psmb9-irf1.txt
+PSMB9,STAT1,<0.001,2.304,Co-occurence,PSMB9,STAT1,./plots-stat1-psmb9.txt
+ICAM2,ICAM3,<0.001,>3,Co-occurence,ICAM2,None,./plots-icam3-icam2.txt
+ICAM3,ICAM2,<0.001,>3,Co-occurence, ICAM3 ,None,./plots-icam2-icam3.txt
+ICAM3,VCAM1,0.009,1.899,Co-occurence,None,ICAM3,./plots-icam3-icam2.txt
+IRF1,CCR5,<0.001,>3,Co-occurence,IRF1,None,./plots-ccr5-irf1.txt
+PSMB9,CCR5,0.001,1.61,Co-occurence,PSMB9,None,./plots-ccr5-psmb9.txt
+ICAM3,CCR5,0.031,1.707,Co-occurence,ICAM3,None,./plots-ccr5-icam3.txt
+IRF1,CCL3,<0.001,>3,Co-occurence,None,IRF1,./plots-ccl3-irf1.txt
+PSMB9,CCL3,0.001,2.038,Co-occurence,None,PSMB9,./plots-ccl3-psmb9.txt
+ICAM3,CCL3,0.006,2.427,Co-occurence,None,ICAM3,./plots-ccl3-icam3.txt
+IRF1,CCL4,<0.001,>3,Co-occurence,IRF1,None,./plots-ccl4-irf1.txt
+PSMB9,CCL4,<0.001,2.42,Co-occurence,PSMB9,None,./plots-ccl4-psmb9.txt
+IRF1,CCL5,<0.001,>3,Co-occurence,IRF1,None,./plots-ccl5-irf1.txt
+PSMB9,CCL5,<0.001,>3,Co-occurence,None,PSMB9,./plots-ccl5-psmb9.txt
+ICAM2,CCL5,0.033,1.69,Co-occurence,ICAM2,None,./plots-ccl5-icam2.txt
+ICAM3,CCL5,0.039,2.113,Co-occurence,ICAM3,None,./plots-ccl5-icam3.txt
+IRF1,CXCL9,<0.001,>3,Co-occurence,IRF1,None,./plots-cxcl9-irf1.txt
+STAT1,CXCL9,<0.001,>3,Co-occurence,None,STAT1,./plots-cxcl9-stat1.txt
+PSMB9,CXCL9,<0.001,1.726,Co-occurence,PSMB9,None,./plots-cxcl9-psmb9.txt
+IFNG,CXCL10,<0.001,>3,Co-occurence,None,CXCL10,./plots-cxcl10-ifng.txt
+IRF1,CXCL10,<0.001,2.996,Co-occurence,IRF1,CXCL10,./plots-cxcl10-irf1.txt
+STAT1,CXCL10,<0.001,>3,Co-occurence,None,STAT1,./plots-cxcl10-stat1.txt
+PSMB9,CXCL10,0.004,1.661,Co-occurence,PSMB9,CXCL10,./plots-cxcl10-psmb9.txt
+VCAM1,CXCL10,0.035,1.375,Co-occurence,None,CXCL10,./plots-cxcl10-vcam1.txt
+CCR5,CXCL10,<0.001,2.824,Co-occurence,None,CXCL10,./plots-cxcl10-ccr5.txt
+CCL4,CXCL10,<0.001,>3,Co-occurence,None,CXCL10,./plots-cxcl10-ccl4.txt
+CCL5,CXCL10,<0.001,2.71,Co-occurence,None,CXCL10,./plots-cxcl10-ccl5.txt
+CXCL9,CXCL10,<0.001,>3,Co-occurence,None,CXCL10,./plots-cxcl10-cxcl9.txt
+IRF1,CXCL11,<0.001,2.517,Co-occurence,None,IRF1,./plots-cxcl11-irf1.txt
+STAT1,CXCL11,<0.001,>3,Co-occurence,None,STAT1,./plots-cxcl11-stat1.txt
+PSMB9,CXCL11,0.013,1.534,Co-occurence,None,PSMB9,./plots-cxcl11-psmb9.txt
+CXCL10,CXCL11,<0.001,>3,Co-occurence,None,CXCL10,./plots-cxcl11-cxcl10.txt
+IFNG,GZMA,<0.001,2.686,Co-occurence,None,GZMA,./plots-gzma-ifng.txt
+IRF1,GZMA,<0.001,2.139,Co-occurence,IRF1,GZMA,./plots-gzma-irf1.txt
+PSMB9,GZMA,0.008,1.344,Co-occurence,PSMB9,GZMA,./plots-gzma-psmb9.txt
+ICAM2,GZMA,<0.001,1.823,Co-occurence,ICAM2,None,./plots-gzma-icam2.txt
+ICAM3,GZMA,0.005,2.1,Co-occurence,ICAM3,None,./plots-gzma-icam3.txt
+CCR5,GZMA,<0.001,>3,Co-occurence,None,GZMA,./plots-gzma-ccr5.txt
+CCL4,GZMA,<0.001,>3,Co-occurence,None,GZMA,./plots-gzma-ccl4.txt
+CCL5,GZMA,<0.001,>3,Co-occurence,None,GZMA,./plots-gzma-ccl5.txt
+CXCL9,GZMA,<0.001,2.78,Co-occurence,None,GZMA,./plots-gzma-cxcl9.txt
+CXCL10,GZMA,<0.001,2.77,Co-occurence,None,CXCL10,./plots-gzma-cxcl10.txt
+IRF1,GZMB,<0.001,2.435,Co-occurence,None,IRF1,./plots-gzmb-irf1.txt
+PSMB9,GZMB,<0.001,2.274,Co-occurence,None,PSMB9,./plots-gzmb-psmb9.txt
+ICAM2,GZMB,0.021,1.562,Co-occurence,None,ICAM2,./plots-gzmb-icam2.txt
+CXCL10,GZMB,<0.001,2.506,Co-occurence,None,CXCL10,./plots-gzmb-cxcl10.txt
+GZMA,GZMB,<0.001,2.588,Co-occurence,None,GZMA,./plots-gzmb-gzma.txt
+IFNG,PRF1,<0.001,2.67,Co-occurence,None,PRF1,./plots-prf1-ifng.txt
+PRF1,IRF1,<0.001,>3,Co-occurence,PRF1,IRF1,./plots-irf1-prf1.txt
+STAT1,PRF1,<0.001,>3,Co-occurence,None,PRF1,./plots-prf1-stat1.txt
+PRF1,PSMB9,<0.001,2.336,Co-occurence,PRF1,PSMB9,./plots-psmb9-prf1.txt
+ICAM3,PRF1,0.026,1.799,Co-occurence,None,PRF1 ICAM3,./plots-prf1-icam3.txt
+CCR5,PRF1,<0.001,2.839,Co-occurence,None,PRF1,./plots-prf1-ccr5.txt
+CCL3,PRF1,<0.001,>3,Co-occurence,None,PRF1,./plots-prf1-ccl3.txt
+PRF1,CCL4,<0.001,>3,Co-occurence,PRF1,None,./plots-ccl4-prf1.txt
+CCL5,PRF1,<0.001,>3,Co-occurence,None,PRF1,./plots-prf1-ccl5.txt
+CXCL9,PRF1,<0.001,2.969,Co-occurence,None,PRF1,./plots-prf1-cxcl9.txt
+CXCL10,PRF1,<0.001,>3,Co-occurence,None,CXCL10 PRF1,./plots-prf1-cxcl10.txt
+CXCL11,PRF1,<0.001,>3,Co-occurence,None,PRF1,./plots-prf1-cxcl11.txt
+GZMA,PRF1,<0.001,2.78,Co-occurence,None,GZMA PRF1,./plots-prf1-gzma.txt
+GZMB,PRF1,<0.001,2.749,Co-occurence,None,PRF1,./plots-prf1-gzmb.txt
+IRF1,GNLY,0.007,1.932,Co-occurence,None,GNLY IRF1,./plots-gnly-irf1.txt
+PSMB9,GNLY,<0.001,2.556,Co-occurence,None,GNLY PSMB9,./plots-gnly-psmb9.txt
+CCL4,GNLY,<0.001,2.358,Co-occurence,None,GNLY,./plots-gnly-ccl4.txt
+CCL5,GNLY,<0.001,2.644,Co-occurence,None,GNLY,./plots-gnly-ccl5.txt
+GZMB,GNLY,<0.001,>3,Co-occurence,None,GNLY,./plots-gnly-gzmb.txt
+PRF1,GNLY,<0.001,2.85,Co-occurence,None,PRF1,./plots-gnly-prf1.txt
+PSMB9,HLA-C,0.042,2.357,Co-occurence,PSMB9,None,./plots-hla-c-psmb9.txt
+HLA-C,PSMB9,0.042,2.357,Co-occurence,HLA-C,None,./plots-psmb9-hla-c.txt
+GZMB,HLA-E,0.038,>3,Co-occurence,None,GZMB,./plots-hla-e-gzmb.txt
+IFNG,HLA-G,0.007,2.512,Co-occurence,None,HLA-G,./plots-hla-g-ifng.txt
+CCR5,HLA-G,0.005,2.637,Co-occurence,None,HLA-G,./plots-hla-g-ccr5.txt
+GZMB,HLA-G,0.025,2.431,Co-occurence,None,HLA-G,./plots-hla-g-gzmb.txt
+HLA-G,HLA-B,0.004,>3,Co-occurence,HLA-G,None,./plots-hla-b-hla-g.txt
+IFNG,HLA-DMA,0.004,2.802,Co-occurence,None,HLA-DMA,./plots-hla-dma-ifng.txt
+ICAM2,HLA-DMA,0.049,2.07,Co-occurence,ICAM2,None,./plots-hla-dma-icam2.txt
+ICAM3,HLA-DMA,0.01,>3,Co-occurence,ICAM3,None,./plots-hla-dma-icam3.txt
+VCAM1,HLA-DMA,0.005,2.69,Co-occurence,None,HLA-DMA,./plots-hla-dma-vcam1.txt
+CCR5,HLA-DMA,0.04,2.191,Co-occurence,None,HLA-DMA,./plots-hla-dma-ccr5.txt
+CXCL11,HLA-DMA,0.016,2.723,Co-occurence,None,HLA-DMA,./plots-hla-dma-cxcl11.txt
+HLA-G,HLA-DMA,0.003,>3,Co-occurence,None,HLA-G,./plots-hla-dma-hla-g.txt
+HLA-DMA,HLA-DOB,0.005,>3,Co-occurence,None,HLA-DMA,./plots-hla-dob-hla-dma.txt
+HLA-DOA,HLA-DPA1,0.029,>3,Co-occurence,None,HLA-DOA HLA-DPA1,./plots-hla-dpa1-hla-doa.txt
+HLA-DMB,HLA-DQA1,0.004,>3,Co-occurence,None,HLA-DMB ,./plots-hla-dqa1-hla-dmb.txt
+HLA-DMB,HLA-DQA2,0.006,>3,Co-occurence,None,HLA-DMB,./plots-hla-dqa2-hla-dmb.txt
+GZMA,HLA-DRA,0.035,1.664,Co-occurence,None,GZMA ,./plots-hla-dra-gzma.txt
+PRF1,HLA-DRA,0.026,1.799,Co-occurence,PRF1,None,./plots-hla-dra-prf1.txt
+HLA-B,HLA-DRA,0.013,2.817,Co-occurence,HLA-B ,None,./plots-hla-dra-hla-b.txt
+HLA-G,HLA-DRA,<0.001,>3,Co-occurence,None,HLA-G,./plots-hla-dra-hla-g.txt
+GZMA,HLA-DRB1,0.008,2.368,Co-occurence,None,GZMA,./plots-hla-drb1-gzma.txt

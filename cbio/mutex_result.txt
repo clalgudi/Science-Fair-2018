@@ -1,0 +1,821 @@
+geneA	geneB	p-Value	Log Odds Ratio	Association
+IFNG	IFNGR1	0.6393547753777293	-0.24794960046530642	Tendency towards mutual exclusivity
+IFNG	IFNGR2	0.4959186372689098	0.23497800896121254	Tendency towards co-occurrence
+IFNG	IRF1	9.572985756513232e-10	3.3430064432080178	Tendency towards co-occurrence(Significant)
+IFNG	STAT1	5.583144326912248e-9	2.7463367712636946	Tendency towards co-occurrence(Significant)
+IFNG	PSMB9	0.00009466625935586205	1.8410305182348377	Tendency towards co-occurrence(Significant)
+IFNG	ICAM1	0.0013318122900333393	1.911854644642818	Tendency towards co-occurrence(Significant)
+IFNG	ICAM2	0.2876506170881522	0.5519438706954634	Tendency towards co-occurrence
+IFNG	ICAM3	0.006048018628505853	2.017747972674496	Tendency towards co-occurrence(Significant)
+IFNG	ICAM4	0.5762368743680824	0.07137099389191894	Tendency towards co-occurrence
+IFNG	ICAM5	0.6393547753777293	-0.24794960046530642	Tendency towards mutual exclusivity
+IFNG	VCAM1	0.04644537746363553	1.100990411073077	Tendency towards co-occurrence(Significant)
+IFNG	CCR5	1.548031967431153e-10	3.168024714878746	Tendency towards co-occurrence(Significant)
+IFNG	CCL3	0.010559937588786261	1.8125214606764841	Tendency towards co-occurrence(Significant)
+IFNG	CCL4	4.476725899074457e-10	3.4630596273989402	Tendency towards co-occurrence(Significant)
+IFNG	CCL5	3.771505750674658e-8	3.7001790093678695	Tendency towards co-occurrence(Significant)
+IFNG	CXCL9	1.0541050544141406e-9	3.1072277777793333	Tendency towards co-occurrence(Significant)
+IFNG	CXCL10	1.216907026201547e-8	3.196402969016142	Tendency towards co-occurrence(Significant)
+IFNG	CXCL11	7.371375227472184e-8	3.1623054733798064	Tendency towards co-occurrence(Significant)
+IFNG	GZMA	8.976467107172505e-8	2.688668537819824	Tendency towards co-occurrence(Significant)
+IFNG	GZMB	0.003302975734140044	1.9032549734533972	Tendency towards co-occurrence(Significant)
+IFNG	PRF1	3.3812631688783516e-7	2.6718471524382497	Tendency towards co-occurrence(Significant)
+IFNG	GNLY	0.12257763655637884	1.037987666851675	Tendency towards co-occurrence
+IFNG	HLA-A	0.3659965657800076	0.9345144708306066	Tendency towards co-occurrence
+IFNG	HLA-B	0.3659965657800076	0.9345144708306066	Tendency towards co-occurrence
+IFNG	HLA-C	0.2286029120476024	1.6344108333654803	Tendency towards co-occurrence
+IFNG	HLA-E	0.9373695198326554	-Infinity	Tendency towards mutual exclusivity
+IFNG	HLA-F	0.8232847844516452	-Infinity	Tendency towards mutual exclusivity
+IFNG	HLA-G	0.006562918505215592	2.5145553437101302	Tendency towards co-occurrence(Significant)
+IFNG	HLA-H	1	Infinity	Tendency towards co-occurrence
+IFNG	HLA-DMA	0.0039161653100250595	2.804482086015735	Tendency towards co-occurrence(Significant)
+IFNG	HLA-DMB	0.6769382040313563	-Infinity	Tendency towards mutual exclusivity
+IFNG	HLA-DOA	0.6340034342199118	-Infinity	Tendency towards mutual exclusivity
+IFNG	HLA-DOB	0.4441091016005973	0.6423075037805361	Tendency towards co-occurrence
+IFNG	HLA-DPA1	0.12146120316907383	2.7374974024285113	Tendency towards co-occurrence
+IFNG	HLA-DPB1	0.8785387968309666	-Infinity	Tendency towards mutual exclusivity
+IFNG	HLA-DQA1	0.4062933942264353	0.7781039030359107	Tendency towards co-occurrence
+IFNG	HLA-DQA2	0.47959149937117695	0.5222543195896134	Tendency towards co-occurrence
+IFNG	HLA-DQB1	0.7713970879531803	-Infinity	Tendency towards mutual exclusivity
+IFNG	HLA-DRA	0.19266655178217829	1.0452663079628168	Tendency towards co-occurrence
+IFNG	HLA-DRB1	0.4062933942264353	0.7781039030359107	Tendency towards co-occurrence
+IFNGR1	IFNGR2	0.3199495235203233	-Infinity	Tendency towards mutual exclusivity
+IFNGR1	IRF1	0.4186223198566918	-Infinity	Tendency towards mutual exclusivity
+IFNGR1	STAT1	0.577152352915853	-0.3865071943635503	Tendency towards mutual exclusivity
+IFNGR1	PSMB9	0.44831660574855425	-0.6490223756510072	Tendency towards mutual exclusivity
+IFNGR1	ICAM1	0.38289777904675654	-Infinity	Tendency towards mutual exclusivity
+IFNGR1	ICAM2	0.005460540130912348	1.7555564205640946	Tendency towards co-occurrence(Significant)
+IFNGR1	ICAM3	0.00007824070697491147	2.933413509154733	Tendency towards co-occurrence(Significant)
+IFNGR1	ICAM4	0.6393547753783109	-0.24794960046530642	Tendency towards mutual exclusivity
+IFNGR1	ICAM5	0.4186223198566918	-Infinity	Tendency towards mutual exclusivity
+IFNGR1	VCAM1	0.15200767760972803	0.9256584818777551	Tendency towards co-occurrence
+IFNGR1	CCR5	0.687220499746853	-0.13179778918543267	Tendency towards mutual exclusivity
+IFNGR1	CCL3	0.5223021969858378	-Infinity	Tendency towards mutual exclusivity
+IFNGR1	CCL4	0.4376506071237928	-Infinity	Tendency towards mutual exclusivity
+IFNGR1	CCL5	0.5957653076376126	-Infinity	Tendency towards mutual exclusivity
+IFNGR1	CXCL9	0.7193991908420878	-0.04714677842570196	Tendency towards mutual exclusivity
+IFNGR1	CXCL10	0.4376506071237928	-Infinity	Tendency towards mutual exclusivity
+IFNGR1	CXCL11	0.47820000618891967	-Infinity	Tendency towards mutual exclusivity
+IFNGR1	GZMA	0.10436134670998057	1.1195676538440977	Tendency towards co-occurrence
+IFNGR1	GZMB	0.5425012927806284	0.3136575588550416	Tendency towards co-occurrence
+IFNGR1	PRF1	0.33469374119396395	-Infinity	Tendency towards mutual exclusivity
+IFNGR1	GNLY	0.4186223198566918	-Infinity	Tendency towards mutual exclusivity
+IFNGR1	HLA-A	0.7404620822530771	-Infinity	Tendency towards mutual exclusivity
+IFNGR1	HLA-B	0.7404620822530771	-Infinity	Tendency towards mutual exclusivity
+IFNGR1	HLA-C	0.8426950919316811	-Infinity	Tendency towards mutual exclusivity
+IFNGR1	HLA-E	0.958246346555221	-Infinity	Tendency towards mutual exclusivity
+IFNGR1	HLA-F	0.8796554029803694	-Infinity	Tendency towards mutual exclusivity
+IFNGR1	HLA-G	0.2595379177463761	1.3796936770885386	Tendency towards co-occurrence
+IFNGR1	HLA-H	1	Infinity	Tendency towards co-occurrence
+IFNGR1	HLA-DMA	0.7731535649131521	-Infinity	Tendency towards mutual exclusivity
+IFNGR1	HLA-DMB	0.7731535649131521	-Infinity	Tendency towards mutual exclusivity
+IFNGR1	HLA-DOA	0.7404620822530771	-Infinity	Tendency towards mutual exclusivity
+IFNGR1	HLA-DOB	0.6789767371592186	-Infinity	Tendency towards mutual exclusivity
+IFNGR1	HLA-DPA1	0.9181523571595717	-Infinity	Tendency towards mutual exclusivity
+IFNGR1	HLA-DPB1	0.9181523571595717	-Infinity	Tendency towards mutual exclusivity
+IFNGR1	HLA-DQA1	0.29091342970663736	1.2233330516104775	Tendency towards co-occurrence
+IFNGR1	HLA-DQA2	0.3499158899530444	0.9675840262617057	Tendency towards co-occurrence
+IFNGR1	HLA-DQB1	0.8426950919316811	-Infinity	Tendency towards mutual exclusivity
+IFNGR1	HLA-DRA	0.5702507334351314	-Infinity	Tendency towards mutual exclusivity
+IFNGR1	HLA-DRB1	0.7090865702934194	-Infinity	Tendency towards mutual exclusivity
+IFNGR2	IRF1	0.2967008169631667	0.7000676234045191	Tendency towards co-occurrence
+IFNGR2	STAT1	0.2780645883879132	0.5741361822898255	Tendency towards co-occurrence
+IFNGR2	PSMB9	0.41890180706416436	0.29768621158605646	Tendency towards co-occurrence
+IFNGR2	ICAM1	0.6616448148095018	-0.19497267434751345	Tendency towards mutual exclusivity
+IFNGR2	ICAM2	0.5040813627309334	-0.536438199622717	Tendency towards mutual exclusivity
+IFNGR2	ICAM3	0.4794925033723114	-Infinity	Tendency towards mutual exclusivity
+IFNGR2	ICAM4	0.4959186372689098	0.23497800896121254	Tendency towards co-occurrence
+IFNGR2	ICAM5	0.08740071550275845	1.2075469720317782	Tendency towards co-occurrence
+IFNGR2	VCAM1	0.14836895791613222	-Infinity	Tendency towards mutual exclusivity
+IFNGR2	CCR5	0.43912099719300896	0.35534072092559577	Tendency towards co-occurrence
+IFNGR2	CCL3	0.427425224751185	-Infinity	Tendency towards mutual exclusivity
+IFNGR2	CCL4	0.3391170064958675	-Infinity	Tendency towards mutual exclusivity
+IFNGR2	CCL5	0.5077619026640522	-Infinity	Tendency towards mutual exclusivity
+IFNGR2	CXCL9	0.600412435226275	-0.33547273628812946	Tendency towards mutual exclusivity
+IFNGR2	CXCL10	0.3391170064958675	-Infinity	Tendency towards mutual exclusivity
+IFNGR2	CXCL11	0.3808173482942344	-Infinity	Tendency towards mutual exclusivity
+IFNGR2	GZMA	0.45841018430959957	0.3137808254191422	Tendency towards co-occurrence
+IFNGR2	GZMB	0.25485090290512374	0.8224378230678085	Tendency towards co-occurrence
+IFNGR2	PRF1	0.600412435226275	-0.33547273628812946	Tendency towards mutual exclusivity
+IFNGR2	GNLY	0.2967008169631667	0.7000676234045191	Tendency towards co-occurrence
+IFNGR2	HLA-A	0.6748942636059155	-Infinity	Tendency towards mutual exclusivity
+IFNGR2	HLA-B	0.3251057363947755	1.091923300517313	Tendency towards co-occurrence
+IFNGR2	HLA-C	0.799349947348303	-Infinity	Tendency towards mutual exclusivity
+IFNGR2	HLA-E	0.9457202505228804	-Infinity	Tendency towards mutual exclusivity
+IFNGR2	HLA-F	0.8455346109725941	-Infinity	Tendency towards mutual exclusivity
+IFNGR2	HLA-G	0.3251057363947755	1.091923300517313	Tendency towards co-occurrence
+IFNGR2	HLA-H	1	Infinity	Tendency towards co-occurrence
+IFNGR2	HLA-DMA	0.7141498583567593	-Infinity	Tendency towards mutual exclusivity
+IFNGR2	HLA-DMB	0.28585014164358635	1.276479495112684	Tendency towards co-occurrence
+IFNGR2	HLA-DOA	0.6748942636059155	-Infinity	Tendency towards mutual exclusivity
+IFNGR2	HLA-DOB	0.6025147742711263	-Infinity	Tendency towards mutual exclusivity
+IFNGR2	HLA-DPA1	0.8942794000756226	-Infinity	Tendency towards mutual exclusivity
+IFNGR2	HLA-DPB1	0.8942794000756226	-Infinity	Tendency towards mutual exclusivity
+IFNGR2	HLA-DQA1	0.3622821153224694	0.93553297809655	Tendency towards co-occurrence
+IFNGR2	HLA-DQA2	0.0975097849217347	1.533726090698404	Tendency towards co-occurrence
+IFNGR2	HLA-DQB1	0.799349947348303	-Infinity	Tendency towards mutual exclusivity
+IFNGR2	HLA-DRA	0.1530053058349051	1.2085079594913273	Tendency towards co-occurrence
+IFNGR2	HLA-DRB1	0.3622821153224694	0.93553297809655	Tendency towards co-occurrence
+IRF1	STAT1	4.656235913059642e-9	3.1428187228820357	Tendency towards co-occurrence(Significant)
+IRF1	PSMB9	0.000013255565145792925	2.325057948846104	Tendency towards co-occurrence(Significant)
+IRF1	ICAM1	0.009984160626224415	1.8123787564307907	Tendency towards co-occurrence(Significant)
+IRF1	ICAM2	0.6393547753783109	-0.24794960046530642	Tendency towards mutual exclusivity
+IRF1	ICAM3	0.4297492665645514	0.673212965659128	Tendency towards co-occurrence
+IRF1	ICAM4	0.6393547753783109	-0.24794960046530642	Tendency towards mutual exclusivity
+IRF1	ICAM5	0.4186223198566918	-Infinity	Tendency towards mutual exclusivity
+IRF1	VCAM1	0.15200767760972803	0.9256584818777551	Tendency towards co-occurrence
+IRF1	CCR5	2.414193994707578e-10	3.5216517432675056	Tendency towards co-occurrence(Significant)
+IRF1	CCL3	0.0000094577618678568	3.0647251450409425	Tendency towards co-occurrence(Significant)
+IRF1	CCL4	1.6185482168384559e-12	4.232696493284993	Tendency towards co-occurrence(Significant)
+IRF1	CCL5	8.776819256480778e-10	4.328537949722896	Tendency towards co-occurrence(Significant)
+IRF1	CXCL9	7.164214351752816e-8	3.1203103523432034	Tendency towards co-occurrence(Significant)
+IRF1	CXCL10	0.0000026470286713273564	2.998612736419345	Tendency towards co-occurrence(Significant)
+IRF1	CXCL11	0.00033769804376713764	2.519039656157459	Tendency towards co-occurrence(Significant)
+IRF1	GZMA	0.0005064006495591147	2.141592881350071	Tendency towards co-occurrence(Significant)
+IRF1	GZMB	0.0004551034237907906	2.4367573058904175	Tendency towards co-occurrence(Significant)
+IRF1	PRF1	7.164214351752816e-8	3.1203103523432034	Tendency towards co-occurrence(Significant)
+IRF1	GNLY	0.006987408253073801	1.9346866866854637	Tendency towards co-occurrence(Significant)
+IRF1	HLA-A	0.7404620822530771	-Infinity	Tendency towards mutual exclusivity
+IRF1	HLA-B	0.7404620822530771	-Infinity	Tendency towards mutual exclusivity
+IRF1	HLA-C	0.8426950919316811	-Infinity	Tendency towards mutual exclusivity
+IRF1	HLA-E	0.958246346555221	-Infinity	Tendency towards mutual exclusivity
+IRF1	HLA-F	0.8796554029803694	-Infinity	Tendency towards mutual exclusivity
+IRF1	HLA-G	0.7404620822530771	-Infinity	Tendency towards mutual exclusivity
+IRF1	HLA-H	1	Infinity	Tendency towards co-occurrence
+IRF1	HLA-DMA	0.7731535649131521	-Infinity	Tendency towards mutual exclusivity
+IRF1	HLA-DMB	0.22684643508630828	1.5642203064408071	Tendency towards co-occurrence
+IRF1	HLA-DOA	0.7404620822530771	-Infinity	Tendency towards mutual exclusivity
+IRF1	HLA-DOB	0.6789767371592186	-Infinity	Tendency towards mutual exclusivity
+IRF1	HLA-DPA1	0.9181523571595717	-Infinity	Tendency towards mutual exclusivity
+IRF1	HLA-DPB1	0.9181523571595717	-Infinity	Tendency towards mutual exclusivity
+IRF1	HLA-DQA1	0.29091342970663736	1.2233330516104775	Tendency towards co-occurrence
+IRF1	HLA-DQA2	0.3499158899530444	0.9675840262617057	Tendency towards co-occurrence
+IRF1	HLA-DQB1	0.8426950919316811	-Infinity	Tendency towards mutual exclusivity
+IRF1	HLA-DRA	0.4297492665645514	0.673212965659128	Tendency towards co-occurrence
+IRF1	HLA-DRB1	0.7090865702934194	-Infinity	Tendency towards mutual exclusivity
+STAT1	PSMB9	1.0162353058640416e-7	2.306714486336057	Tendency towards co-occurrence(Significant)
+STAT1	ICAM1	0.0026720321412533315	1.7484231557410868	Tendency towards co-occurrence(Significant)
+STAT1	ICAM2	0.35996387564581583	0.4042696507033906	Tendency towards co-occurrence
+STAT1	ICAM3	0.23381143647912425	0.9025605390622531	Tendency towards co-occurrence
+STAT1	ICAM4	0.6400361243546974	-0.07170701061618374	Tendency towards mutual exclusivity
+STAT1	ICAM5	0.42284764708381595	0.3938235330926786	Tendency towards co-occurrence
+STAT1	VCAM1	0.07412173016759842	0.9430237940712239	Tendency towards co-occurrence
+STAT1	CCR5	1.8307640149180977e-8	2.7495992040150825	Tendency towards co-occurrence(Significant)
+STAT1	CCL3	0.0024050998567203075	2.0149030205422647	Tendency towards co-occurrence(Significant)
+STAT1	CCL4	2.043574591960924e-12	3.81316686358523	Tendency towards co-occurrence(Significant)
+STAT1	CCL5	0.000002998796612308287	3.1274100975291907	Tendency towards co-occurrence(Significant)
+STAT1	CXCL9	3.0186667861610115e-10	3.1062579979526035	Tendency towards co-occurrence(Significant)
+STAT1	CXCL10	4.1575724662518184e-14	4.120661870539474	Tendency towards co-occurrence(Significant)
+STAT1	CXCL11	3.9461617246471784e-10	3.555141000716337	Tendency towards co-occurrence(Significant)
+STAT1	GZMA	4.0851799664163094e-7	2.4883109083948014	Tendency towards co-occurrence(Significant)
+STAT1	GZMB	0.0008202219342296668	2.0453860372673405	Tendency towards co-occurrence(Significant)
+STAT1	PRF1	3.0186667861610115e-10	3.1062579979526035	Tendency towards co-occurrence(Significant)
+STAT1	GNLY	0.0015418783382025526	1.8866057195413402	Tendency towards co-occurrence(Significant)
+STAT1	HLA-A	0.08203298212799917	1.7047480922384253	Tendency towards co-occurrence
+STAT1	HLA-B	0.4047451686178786	0.7962323823806361	Tendency towards co-occurrence
+STAT1	HLA-C	0.7441838397010203	-Infinity	Tendency towards mutual exclusivity
+STAT1	HLA-E	0.9290187891438993	-Infinity	Tendency towards mutual exclusivity
+STAT1	HLA-F	0.801428750446584	-Infinity	Tendency towards mutual exclusivity
+STAT1	HLA-G	0.4047451686178786	0.7962323823806361	Tendency towards co-occurrence
+STAT1	HLA-H	1	Infinity	Tendency towards co-occurrence
+STAT1	HLA-DMA	0.3586434276902685	0.9808292530117262	Tendency towards co-occurrence
+STAT1	HLA-DMB	0.6413565723091182	-Infinity	Tendency towards mutual exclusivity
+STAT1	HLA-DOA	0.5952548313820476	-Infinity	Tendency towards mutual exclusivity
+STAT1	HLA-DOB	0.4874979926611856	0.503984091949274	Tendency towards co-occurrence
+STAT1	HLA-DPA1	0.13706204523024235	2.5993170009657445	Tendency towards co-occurrence
+STAT1	HLA-DPB1	0.86293795476979	-Infinity	Tendency towards mutual exclusivity
+STAT1	HLA-DQA1	0.5523763053930768	-Infinity	Tendency towards mutual exclusivity
+STAT1	HLA-DQA2	0.5245726059582064	0.3839101045463347	Tendency towards co-occurrence
+STAT1	HLA-DQB1	0.7441838397010203	-Infinity	Tendency towards mutual exclusivity
+STAT1	HLA-DRA	0.6208461165661758	0.0893235167480093	Tendency towards co-occurrence
+STAT1	HLA-DRB1	0.5523763053930768	-Infinity	Tendency towards mutual exclusivity
+PSMB9	ICAM1	0.31519765071844186	0.49838007718653443	Tendency towards co-occurrence
+PSMB9	ICAM2	0.5177345185871127	0.12761112459264604	Tendency towards co-occurrence
+PSMB9	ICAM3	0.671499438687472	-0.17284281283941083	Tendency towards mutual exclusivity
+PSMB9	ICAM4	0.5177345185871127	0.12761112459264604	Tendency towards co-occurrence
+PSMB9	ICAM5	0.146396260451822	-Infinity	Tendency towards mutual exclusivity
+PSMB9	VCAM1	0.5860623667933226	0.014888612493750559	Tendency towards co-occurrence
+PSMB9	CCR5	0.0013406732622278908	1.6127407228227832	Tendency towards co-occurrence(Significant)
+PSMB9	CCL3	0.001004345311054403	2.040400992476236	Tendency towards co-occurrence(Significant)
+PSMB9	CCL4	0.000007804704503645395	2.422718305995383	Tendency towards co-occurrence(Significant)
+PSMB9	CCL5	8.422836604359987e-7	3.206224707314642	Tendency towards co-occurrence(Significant)
+PSMB9	CXCL9	0.000750465388826997	1.728751056056344	Tendency towards co-occurrence(Significant)
+PSMB9	CXCL10	0.004122392577372042	1.6632643781685719	Tendency towards co-occurrence(Significant)
+PSMB9	CXCL11	0.012649920099609047	1.536678558151672	Tendency towards co-occurrence(Significant)
+PSMB9	GZMA	0.008071191615155807	1.3461472931064786	Tendency towards co-occurrence(Significant)
+PSMB9	GZMB	0.000049280426081519604	2.2759477334657467	Tendency towards co-occurrence(Significant)
+PSMB9	PRF1	0.0000015104565908778466	2.3381073544193973	Tendency towards co-occurrence(Significant)
+PSMB9	GNLY	0.0000011425414965709532	2.55793178480289	Tendency towards co-occurrence(Significant)
+PSMB9	HLA-A	0.5154196964366914	-Infinity	Tendency towards mutual exclusivity
+PSMB9	HLA-B	0.5154196964366914	-Infinity	Tendency towards mutual exclusivity
+PSMB9	HLA-C	0.04207367449622684	2.359472467396097	Tendency towards co-occurrence(Significant)
+PSMB9	HLA-E	0.9102296450935401	-Infinity	Tendency towards mutual exclusivity
+PSMB9	HLA-F	0.24632573398380858	1.6422277352570913	Tendency towards co-occurrence
+PSMB9	HLA-G	0.4845803035632298	0.5343561211761847	Tendency towards co-occurrence
+PSMB9	HLA-H	1	Infinity	Tendency towards co-occurrence
+PSMB9	HLA-DMA	0.5669616660807336	-Infinity	Tendency towards mutual exclusivity
+PSMB9	HLA-DMB	0.5669616660807336	-Infinity	Tendency towards mutual exclusivity
+PSMB9	HLA-DOA	0.4845803035632298	0.5343561211761847	Tendency towards co-occurrence
+PSMB9	HLA-DOB	0.5743043951641219	0.2420120356185925	Tendency towards co-occurrence
+PSMB9	HLA-DPA1	0.8283470619583996	-Infinity	Tendency towards mutual exclusivity
+PSMB9	HLA-DPB1	0.8283470619583996	-Infinity	Tendency towards mutual exclusivity
+PSMB9	HLA-DQA1	0.4684640884990962	-Infinity	Tendency towards mutual exclusivity
+PSMB9	HLA-DQA2	0.6132510143302958	0.12188981760903679	Tendency towards co-occurrence
+PSMB9	HLA-DQB1	0.6855902461874811	-Infinity	Tendency towards mutual exclusivity
+PSMB9	HLA-DRA	0.3285005613121161	0.6337690099816838	Tendency towards co-occurrence
+PSMB9	HLA-DRB1	0.15589104799635037	1.2516008533151908	Tendency towards co-occurrence
+ICAM1	ICAM2	0.4073733627209107	0.42666731575876743	Tendency towards co-occurrence
+ICAM1	ICAM3	0.0018294338002760027	2.4034912583024917	Tendency towards co-occurrence(Significant)
+ICAM1	ICAM4	0.15220536066830553	0.9221216521849482	Tendency towards co-occurrence
+ICAM1	ICAM5	0.2324560502209458	0.8915425621849611	Tendency towards co-occurrence
+ICAM1	VCAM1	0.012859053854635611	1.5054769771306973	Tendency towards co-occurrence(Significant)
+ICAM1	CCR5	0.029118568384812703	1.433472921394981	Tendency towards co-occurrence(Significant)
+ICAM1	CCL3	0.02675618532897872	1.767340941879909	Tendency towards co-occurrence(Significant)
+ICAM1	CCL4	0.000970614811521189	2.230737008807761	Tendency towards co-occurrence(Significant)
+ICAM1	CCL5	0.0013062546780923327	2.523503949286144	Tendency towards co-occurrence(Significant)
+ICAM1	CXCL9	0.02232979318633735	1.5290424088493373	Tendency towards co-occurrence(Significant)
+ICAM1	CXCL10	0.00823832922828878	1.879182284199214	Tendency towards co-occurrence(Significant)
+ICAM1	CXCL11	0.005381439073406072	2.026797808194414	Tendency towards co-occurrence(Significant)
+ICAM1	GZMA	0.13036053583413987	1.0037230728775788	Tendency towards co-occurrence
+ICAM1	GZMB	0.0007374815226388119	2.3070997733485723	Tendency towards co-occurrence(Significant)
+ICAM1	PRF1	0.0004619000016305926	2.1569506781982795	Tendency towards co-occurrence(Significant)
+ICAM1	GNLY	0.00125500363652309	2.159484249353372	Tendency towards co-occurrence(Significant)
+ICAM1	HLA-A	0.7180251181681077	-Infinity	Tendency towards mutual exclusivity
+ICAM1	HLA-B	0.2819748818318103	1.2751854325512004	Tendency towards co-occurrence
+ICAM1	HLA-C	0.8280556989288055	-Infinity	Tendency towards mutual exclusivity
+ICAM1	HLA-E	0.04592901878913004	Infinity	Tendency towards co-occurrence(Significant)
+ICAM1	HLA-F	0.8681817460134814	-Infinity	Tendency towards mutual exclusivity
+ICAM1	HLA-G	0.2819748818318103	1.2751854325512004	Tendency towards co-occurrence
+ICAM1	HLA-H	1	Infinity	Tendency towards co-occurrence
+ICAM1	HLA-DMA	0.02703179541146473	2.4270126713690976	Tendency towards co-occurrence(Significant)
+ICAM1	HLA-DMB	0.7530507336878385	-Infinity	Tendency towards mutual exclusivity
+ICAM1	HLA-DOA	0.7180251181681077	-Infinity	Tendency towards mutual exclusivity
+ICAM1	HLA-DOB	0.05964134570052883	1.8607523407150066	Tendency towards co-occurrence
+ICAM1	HLA-DPA1	0.9101597645020846	-Infinity	Tendency towards mutual exclusivity
+ICAM1	HLA-DPB1	0.9101597645020846	-Infinity	Tendency towards mutual exclusivity
+ICAM1	HLA-DQA1	0.6845578457110938	-Infinity	Tendency towards mutual exclusivity
+ICAM1	HLA-DQA2	0.37796368170724415	0.8630462173553427	Tendency towards co-occurrence
+ICAM1	HLA-DQB1	0.8280556989288055	-Infinity	Tendency towards mutual exclusivity
+ICAM1	HLA-DRA	0.4616278835472239	0.5686451946548169	Tendency towards co-occurrence
+ICAM1	HLA-DRB1	0.6845578457110938	-Infinity	Tendency towards mutual exclusivity
+ICAM2	ICAM3	0.0000024467085815414073	3.1122262339432445	Tendency towards co-occurrence(Significant)
+ICAM2	ICAM4	0.5762368743680824	0.07137099389191894	Tendency towards co-occurrence
+ICAM2	ICAM5	0.3606452246219585	0.5366790025923245	Tendency towards co-occurrence
+ICAM2	VCAM1	0.3418439248069675	0.43944896092376295	Tendency towards co-occurrence
+ICAM2	CCR5	0.07964557873123844	1.0471429534386294	Tendency towards co-occurrence
+ICAM2	CCL3	0.060494039969694643	1.3978019679713705	Tendency towards co-occurrence
+ICAM2	CCL4	0.10869036058603038	1.1009244284264894	Tendency towards co-occurrence
+ICAM2	CCL5	0.03325677991196152	1.6923255722398682	Tendency towards co-occurrence(Significant)
+ICAM2	CXCL9	0.1900771915946479	-Infinity	Tendency towards mutual exclusivity
+ICAM2	CXCL10	0.33683846581557114	0.5961549145726356	Tendency towards co-occurrence
+ICAM2	CXCL11	0.2886747902101143	0.7259370033829363	Tendency towards co-occurrence
+ICAM2	GZMA	0.0008696287385582747	1.8250166909845373	Tendency towards co-occurrence(Significant)
+ICAM2	GZMB	0.0207089373098574	1.564486524571834	Tendency towards co-occurrence(Significant)
+ICAM2	PRF1	0.0627235260332027	1.1427985809567824	Tendency towards co-occurrence
+ICAM2	GNLY	0.12257763655637884	1.037987666851675	Tendency towards co-occurrence
+ICAM2	HLA-A	0.3659965657800076	0.9345144708306066	Tendency towards co-occurrence
+ICAM2	HLA-B	0.3659965657800076	0.9345144708306066	Tendency towards co-occurrence
+ICAM2	HLA-C	0.7713970879531803	-Infinity	Tendency towards mutual exclusivity
+ICAM2	HLA-E	0.9373695198326554	-Infinity	Tendency towards mutual exclusivity
+ICAM2	HLA-F	0.8232847844516452	-Infinity	Tendency towards mutual exclusivity
+ICAM2	HLA-G	0.3659965657800076	0.9345144708306066	Tendency towards co-occurrence
+ICAM2	HLA-H	1	Infinity	Tendency towards co-occurrence
+ICAM2	HLA-DMA	0.04862738892884829	2.072722591431091	Tendency towards co-occurrence(Significant)
+ICAM2	HLA-DMB	0.6769382040313563	-Infinity	Tendency towards mutual exclusivity
+ICAM2	HLA-DOA	0.6340034342199118	-Infinity	Tendency towards mutual exclusivity
+ICAM2	HLA-DOB	0.4441091016005973	0.6423075037805361	Tendency towards co-occurrence
+ICAM2	HLA-DPA1	0.8785387968309666	-Infinity	Tendency towards mutual exclusivity
+ICAM2	HLA-DPB1	0.8785387968309666	-Infinity	Tendency towards mutual exclusivity
+ICAM2	HLA-DQA1	0.5937066057740089	-Infinity	Tendency towards mutual exclusivity
+ICAM2	HLA-DQA2	0.5204085006297413	-Infinity	Tendency towards mutual exclusivity
+ICAM2	HLA-DQB1	0.7713970879531803	-Infinity	Tendency towards mutual exclusivity
+ICAM2	HLA-DRA	0.19266655178217829	1.0452663079628168	Tendency towards co-occurrence
+ICAM2	HLA-DRB1	0.4062933942264353	0.7781039030359107	Tendency towards co-occurrence
+ICAM3	ICAM4	0.0006217258952637838	2.4001654213329098	Tendency towards co-occurrence(Significant)
+ICAM3	ICAM5	0.09805980192657866	1.5096733822803952	Tendency towards co-occurrence
+ICAM3	VCAM1	0.008614555723894692	1.9017071488927872	Tendency towards co-occurrence(Significant)
+ICAM3	CCR5	0.031315838684772446	1.7092832474038167	Tendency towards co-occurrence(Significant)
+ICAM3	CCL3	0.005904874226998183	2.4292177439274116	Tendency towards co-occurrence(Significant)
+ICAM3	CCL4	0.08961948965686331	1.5690614514476129	Tendency towards co-occurrence
+ICAM3	CCL5	0.03852566268723154	2.1151596242819153	Tendency towards co-occurrence(Significant)
+ICAM3	CXCL9	0.1434116182923661	1.2533274618775607	Tendency towards co-occurrence
+ICAM3	CXCL10	0.08961948965686331	1.5690614514476129	Tendency towards co-occurrence
+ICAM3	CXCL11	0.07350151519602174	1.698669046162043	Tendency towards co-occurrence
+ICAM3	GZMA	0.004662614685073153	2.102325835513424	Tendency towards co-occurrence(Significant)
+ICAM3	GZMB	0.08142750916297395	1.6319107682861589	Tendency towards co-occurrence
+ICAM3	PRF1	0.02542875208168102	1.800809304747973	Tendency towards co-occurrence(Significant)
+ICAM3	GNLY	0.09805980192657866	1.5096733822803952	Tendency towards co-occurrence
+ICAM3	HLA-A	0.823790425295009	-Infinity	Tendency towards mutual exclusivity
+ICAM3	HLA-B	0.17620957470537613	1.8545603704670854	Tendency towards co-occurrence
+ICAM3	HLA-C	0.8954659971540726	-Infinity	Tendency towards mutual exclusivity
+ICAM3	HLA-E	0.9728601252609457	-Infinity	Tendency towards mutual exclusivity
+ICAM3	HLA-F	0.9206086709402115	-Infinity	Tendency towards mutual exclusivity
+ICAM3	HLA-G	0.17620957470537613	1.8545603704670854	Tendency towards co-occurrence
+ICAM3	HLA-H	1	Infinity	Tendency towards co-occurrence
+ICAM3	HLA-DMA	0.009606255033496275	3.044522437723423	Tendency towards co-occurrence(Significant)
+ICAM3	HLA-DMB	0.8470714590522044	-Infinity	Tendency towards mutual exclusivity
+ICAM3	HLA-DOA	0.823790425295009	-Infinity	Tendency towards mutual exclusivity
+ICAM3	HLA-DOB	0.2210097935049534	1.5625209926463486	Tendency towards co-occurrence
+ICAM3	HLA-DPA1	0.9464015862898667	-Infinity	Tendency towards mutual exclusivity
+ICAM3	HLA-DPB1	0.9464015862898667	-Infinity	Tendency towards mutual exclusivity
+ICAM3	HLA-DQA1	0.8011012822256577	-Infinity	Tendency towards mutual exclusivity
+ICAM3	HLA-DQA2	0.24255633113146438	1.4425521637699852	Tendency towards co-occurrence
+ICAM3	HLA-DQB1	0.8954659971540726	-Infinity	Tendency towards mutual exclusivity
+ICAM3	HLA-DRA	0.30393971388655167	1.1482838984653474	Tendency towards co-occurrence
+ICAM3	HLA-DRB1	0.8011012822256577	-Infinity	Tendency towards mutual exclusivity
+ICAM4	ICAM5	0.029995796753136218	1.4263468288611172	Tendency towards co-occurrence(Significant)
+ICAM4	VCAM1	0.3695311439761116	-0.7999455109873992	Tendency towards mutual exclusivity
+ICAM4	CCR5	0.5168245220402395	0.19180030074849846	Tendency towards co-occurrence
+ICAM4	CCL3	0.060494039969694643	1.3978019679713705	Tendency towards co-occurrence
+ICAM4	CCL4	0.10869036058603038	1.1009244284264894	Tendency towards co-occurrence
+ICAM4	CCL5	0.1693977604767747	1.142856990465867	Tendency towards co-occurrence
+ICAM4	CXCL9	0.5255075297025782	-0.49326049141000283	Tendency towards mutual exclusivity
+ICAM4	CXCL10	0.33683846581557114	0.5961549145726356	Tendency towards co-occurrence
+ICAM4	CXCL11	0.7113252097895304	-0.06914682422376539	Tendency towards mutual exclusivity
+ICAM4	GZMA	0.2520783175451951	0.6336330530275376	Tendency towards co-occurrence
+ICAM4	GZMB	0.6871771242086531	-0.13208358579857982	Tendency towards mutual exclusivity
+ICAM4	PRF1	0.47449247029733355	0.27988780072496205	Tendency towards co-occurrence
+ICAM4	GNLY	0.3606452246219585	0.5366790025923245	Tendency towards co-occurrence
+ICAM4	HLA-A	0.6340034342199118	-Infinity	Tendency towards mutual exclusivity
+ICAM4	HLA-B	0.6340034342199118	-Infinity	Tendency towards mutual exclusivity
+ICAM4	HLA-C	0.7713970879531803	-Infinity	Tendency towards mutual exclusivity
+ICAM4	HLA-E	0.9373695198326554	-Infinity	Tendency towards mutual exclusivity
+ICAM4	HLA-F	0.8232847844516452	-Infinity	Tendency towards mutual exclusivity
+ICAM4	HLA-G	0.6340034342199118	-Infinity	Tendency towards mutual exclusivity
+ICAM4	HLA-H	1	Infinity	Tendency towards co-occurrence
+ICAM4	HLA-DMA	0.3230617959685754	1.1190908200116503	Tendency towards co-occurrence
+ICAM4	HLA-DMB	0.6769382040313563	-Infinity	Tendency towards mutual exclusivity
+ICAM4	HLA-DOA	0.3659965657800076	0.9345144708306066	Tendency towards co-occurrence
+ICAM4	HLA-DOB	0.5558908983991642	-Infinity	Tendency towards mutual exclusivity
+ICAM4	HLA-DPA1	0.8785387968309666	-Infinity	Tendency towards mutual exclusivity
+ICAM4	HLA-DPB1	0.8785387968309666	-Infinity	Tendency towards mutual exclusivity
+ICAM4	HLA-DQA1	0.4062933942264353	0.7781039030359107	Tendency towards co-occurrence
+ICAM4	HLA-DQA2	0.47959149937117695	0.5222543195896134	Tendency towards co-occurrence
+ICAM4	HLA-DQB1	0.7713970879531803	-Infinity	Tendency towards mutual exclusivity
+ICAM4	HLA-DRA	0.4266078801344783	-Infinity	Tendency towards mutual exclusivity
+ICAM4	HLA-DRB1	0.4062933942264353	0.7781039030359107	Tendency towards co-occurrence
+ICAM5	VCAM1	0.40752248752051295	0.4279114137604312	Tendency towards co-occurrence
+ICAM5	CCR5	0.3127795002543185	0.6569441318959848	Tendency towards co-occurrence
+ICAM5	CCL3	0.5223021969858378	-Infinity	Tendency towards mutual exclusivity
+ICAM5	CCL4	0.4376506071237928	-Infinity	Tendency towards mutual exclusivity
+ICAM5	CCL5	0.5957653076376126	-Infinity	Tendency towards mutual exclusivity
+ICAM5	CXCL9	0.33469374119396395	-Infinity	Tendency towards mutual exclusivity
+ICAM5	CXCL10	0.1852354910469393	1.0608719606852626	Tendency towards co-occurrence
+ICAM5	CXCL11	0.1547841877066175	1.1905497839937953	Tendency towards co-occurrence
+ICAM5	GZMA	0.10436134670998057	1.1195676538440977	Tendency towards co-occurrence
+ICAM5	GZMB	0.16987791133440439	1.123756470469135	Tendency towards co-occurrence
+ICAM5	PRF1	0.7193991908420878	-0.04714677842570196	Tendency towards mutual exclusivity
+ICAM5	GNLY	0.5813776801423864	0.19789676857942584	Tendency towards co-occurrence
+ICAM5	HLA-A	0.030697539125286905	2.3114347082710283	Tendency towards co-occurrence(Significant)
+ICAM5	HLA-B	0.2595379177463761	1.3796936770885386	Tendency towards co-occurrence
+ICAM5	HLA-C	0.8426950919316811	-Infinity	Tendency towards mutual exclusivity
+ICAM5	HLA-E	0.958246346555221	-Infinity	Tendency towards mutual exclusivity
+ICAM5	HLA-F	0.8796554029803694	-Infinity	Tendency towards mutual exclusivity
+ICAM5	HLA-G	0.2595379177463761	1.3796936770885386	Tendency towards co-occurrence
+ICAM5	HLA-H	1	Infinity	Tendency towards co-occurrence
+ICAM5	HLA-DMA	0.22684643508630828	1.5642203064408071	Tendency towards co-occurrence
+ICAM5	HLA-DMB	0.7731535649131521	-Infinity	Tendency towards mutual exclusivity
+ICAM5	HLA-DOA	0.2595379177463761	1.3796936770885386	Tendency towards co-occurrence
+ICAM5	HLA-DOB	0.32102326283956345	1.087586818656402	Tendency towards co-occurrence
+ICAM5	HLA-DPA1	0.08184764284026573	3.1824302049477446	Tendency towards co-occurrence
+ICAM5	HLA-DPB1	0.9181523571595717	-Infinity	Tendency towards mutual exclusivity
+ICAM5	HLA-DQA1	0.7090865702934194	-Infinity	Tendency towards mutual exclusivity
+ICAM5	HLA-DQA2	0.3499158899530444	0.9675840262617057	Tendency towards co-occurrence
+ICAM5	HLA-DQB1	0.8426950919316811	-Infinity	Tendency towards mutual exclusivity
+ICAM5	HLA-DRA	0.09805980192666784	1.5096733822803952	Tendency towards co-occurrence
+ICAM5	HLA-DRB1	0.29091342970663736	1.2233330516104775	Tendency towards co-occurrence
+VCAM1	CCR5	0.006982436857959999	1.5034893344247198	Tendency towards co-occurrence(Significant)
+VCAM1	CCL3	0.014886937557727742	1.6964492894237302	Tendency towards co-occurrence(Significant)
+VCAM1	CCL4	0.13539028088132293	0.9886113934537812	Tendency towards co-occurrence
+VCAM1	CCL5	0.19721104484764418	1.0342171264297877	Tendency towards co-occurrence
+VCAM1	CXCL9	0.2432524894617705	0.6561059088795962	Tendency towards co-occurrence
+VCAM1	CXCL10	0.03465536427914082	1.3770564201349542	Tendency towards co-occurrence(Significant)
+VCAM1	CXCL11	0.10436243401637214	1.126783165634806	Tendency towards co-occurrence
+VCAM1	GZMA	0.00025029596188893205	1.9192727895270145	Tendency towards co-occurrence(Significant)
+VCAM1	GZMB	0.02875076543082979	1.4483667897622683	Tendency towards co-occurrence(Significant)
+VCAM1	PRF1	0.08408602241379447	1.0265652623344104	Tendency towards co-occurrence
+VCAM1	GNLY	0.40752248752051295	0.4279114137604312	Tendency towards co-occurrence
+VCAM1	HLA-A	0.07776179142438867	1.7387669390875446	Tendency towards co-occurrence
+VCAM1	HLA-B	0.07776179142438867	1.7387669390875446	Tendency towards co-occurrence
+VCAM1	HLA-C	0.24908146491793684	1.5292215785772993	Tendency towards co-occurrence
+VCAM1	HLA-E	0.9311064718154574	-Infinity	Tendency towards mutual exclusivity
+VCAM1	HLA-F	0.8068560331806844	-Infinity	Tendency towards mutual exclusivity
+VCAM1	HLA-G	0.008647920992532986	2.402430427963762	Tendency towards co-occurrence(Significant)
+VCAM1	HLA-H	1	Infinity	Tendency towards co-occurrence
+VCAM1	HLA-DMA	0.005185526061393058	2.69237238838298	Tendency towards co-occurrence(Significant)
+VCAM1	HLA-DMB	0.650102343749582	-Infinity	Tendency towards mutual exclusivity
+VCAM1	HLA-DOA	0.3952536337208901	0.8292793548845252	Tendency towards co-occurrence
+VCAM1	HLA-DOB	0.12226741572454274	1.397749240094657	Tendency towards co-occurrence
+VCAM1	HLA-DPA1	0.8668250626736974	-Infinity	Tendency towards mutual exclusivity
+VCAM1	HLA-DPB1	0.8668250626736974	-Infinity	Tendency towards mutual exclusivity
+VCAM1	HLA-DQA1	0.013187179431913354	2.1770218700187	Tendency towards co-occurrence(Significant)
+VCAM1	HLA-DQA2	0.14641554275017438	1.2619373447714093	Tendency towards co-occurrence
+VCAM1	HLA-DQB1	0.24908146491793684	1.5292215785772993	Tendency towards co-occurrence
+VCAM1	HLA-DRA	0.05303558735269123	1.472472057360943	Tendency towards co-occurrence
+VCAM1	HLA-DRB1	0.5624653703315647	-Infinity	Tendency towards mutual exclusivity
+CCR5	CCL3	0.0007932292931174896	2.307120248159437	Tendency towards co-occurrence(Significant)
+CCR5	CCL4	1.1220461325225784e-10	3.641689571310978	Tendency towards co-occurrence(Significant)
+CCR5	CCL5	1.464720564412723e-8	3.85350143380849	Tendency towards co-occurrence(Significant)
+CCR5	CXCL9	5.4467999228815774e-9	3.068468131319777	Tendency towards co-occurrence(Significant)
+CCR5	CXCL10	0.0000017274964977390262	2.826152165161871	Tendency towards co-occurrence(Significant)
+CCR5	CXCL11	2.5333312920158462e-8	3.3232358401924436	Tendency towards co-occurrence(Significant)
+CCR5	GZMA	1.7451369298385975e-12	3.5172695529149096	Tendency towards co-occurrence(Significant)
+CCR5	GZMB	0.002009085795596404	2.037945514689419	Tendency towards co-occurrence(Significant)
+CCR5	PRF1	1.0402095443242777e-7	2.8412547429312096	Tendency towards co-occurrence(Significant)
+CCR5	GNLY	0.09571727582564245	1.162691145352632	Tendency towards co-occurrence
+CCR5	HLA-A	0.33553456607543264	1.0504629447705272	Tendency towards co-occurrence
+CCR5	HLA-B	0.33553456607543264	1.0504629447705272	Tendency towards co-occurrence
+CCR5	HLA-C	0.2077083303327508	1.7503140610526624	Tendency towards co-occurrence
+CCR5	HLA-E	0.9436325678504821	-Infinity	Tendency towards mutual exclusivity
+CCR5	HLA-F	0.8399350440128395	-Infinity	Tendency towards mutual exclusivity
+CCR5	HLA-G	0.004821678558030841	2.6390573296152584	Tendency towards co-occurrence(Significant)
+CCR5	HLA-H	1	Infinity	Tendency towards co-occurrence
+CCR5	HLA-DMA	0.03991774009044063	2.192770226986839	Tendency towards co-occurrence(Significant)
+CCR5	HLA-DMB	0.2953090801649737	1.2350241441579866	Tendency towards co-occurrence
+CCR5	HLA-DOA	0.33553456607543264	1.0504629447705272	Tendency towards co-occurrence
+CCR5	HLA-DOB	0.08625242842343066	1.6264354888026715	Tendency towards co-occurrence
+CCR5	HLA-DPA1	0.10966885334689108	2.8533708014811965	Tendency towards co-occurrence
+CCR5	HLA-DPB1	0.8903311466535104	-Infinity	Tendency towards mutual exclusivity
+CCR5	HLA-DQA1	0.06946683935526345	1.7828308384837537	Tendency towards co-occurrence
+CCR5	HLA-DQA2	0.10413175933248568	1.4906543764441336	Tendency towards co-occurrence
+CCR5	HLA-DQB1	0.7922916696678814	-Infinity	Tendency towards mutual exclusivity
+CCR5	HLA-DRA	0.004059600567429667	2.1471453378996572	Tendency towards co-occurrence(Significant)
+CCR5	HLA-DRB1	0.06946683935526345	1.7828308384837537	Tendency towards co-occurrence
+CCL3	CCL4	6.474848589954851e-9	3.851528245309186	Tendency towards co-occurrence(Significant)
+CCL3	CCL5	4.659585207654687e-11	4.878463520987773	Tendency towards co-occurrence(Significant)
+CCL3	CXCL9	0.005362753541349498	2.037446420643233	Tendency towards co-occurrence(Significant)
+CCL3	CXCL10	0.01783301538426018	1.9459101490553132	Tendency towards co-occurrence(Significant)
+CCL3	CXCL11	0.013003675049569764	2.0838958920292163	Tendency towards co-occurrence(Significant)
+CCL3	GZMA	0.0009482113515412039	2.260403478957751	Tendency towards co-occurrence(Significant)
+CCL3	GZMB	0.000004684164260575531	3.2233104219360666	Tendency towards co-occurrence(Significant)
+CCL3	PRF1	0.0000021436884333913866	3.076415801499377	Tendency towards co-occurrence(Significant)
+CCL3	GNLY	0.00017297948042408097	2.705825506080099	Tendency towards co-occurrence(Significant)
+CCL3	HLA-A	0.7992010281335652	-Infinity	Tendency towards mutual exclusivity
+CCL3	HLA-B	0.7992010281335652	-Infinity	Tendency towards mutual exclusivity
+CCL3	HLA-C	0.11985721996504238	2.39572842471328	Tendency towards co-occurrence
+CCL3	HLA-E	0.9686847599168277	-Infinity	Tendency towards mutual exclusivity
+CCL3	HLA-F	0.9087808314457573	-Infinity	Tendency towards mutual exclusivity
+CCL3	HLA-G	0.7992010281335652	-Infinity	Tendency towards mutual exclusivity
+CCL3	HLA-H	1	Infinity	Tendency towards co-occurrence
+CCL3	HLA-DMA	0.8253757342948298	-Infinity	Tendency towards mutual exclusivity
+CCL3	HLA-DMB	0.8253757342948298	-Infinity	Tendency towards mutual exclusivity
+CCL3	HLA-DOA	0.7992010281335652	-Infinity	Tendency towards mutual exclusivity
+CCL3	HLA-DOB	0.250840707407372	1.4039939382192914	Tendency towards co-occurrence
+CCL3	HLA-DPA1	0.9382867025962482	-Infinity	Tendency towards mutual exclusivity
+CCL3	HLA-DPB1	0.9382867025962482	-Infinity	Tendency towards mutual exclusivity
+CCL3	HLA-DQA1	0.22619730962480813	1.5397159122236328	Tendency towards co-occurrence
+CCL3	HLA-DQA2	0.7252499534671842	-Infinity	Tendency towards mutual exclusivity
+CCL3	HLA-DQB1	0.11985721996504238	2.39572842471328	Tendency towards co-occurrence
+CCL3	HLA-DRA	0.6577254139238786	-Infinity	Tendency towards mutual exclusivity
+CCL3	HLA-DRB1	0.7738026903751403	-Infinity	Tendency towards mutual exclusivity
+CCL4	CCL5	3.6922620565908294e-14	5.539082519212066	Tendency towards co-occurrence(Significant)
+CCL4	CXCL9	1.4497721642867754e-9	3.4953845967218564	Tendency towards co-occurrence(Significant)
+CCL4	CXCL10	2.070514835486456e-9	3.7013019741124933	Tendency towards co-occurrence(Significant)
+CCL4	CXCL11	7.112619612874598e-7	3.2676659890376327	Tendency towards co-occurrence(Significant)
+CCL4	GZMA	1.295177756920319e-7	3.039245380622579	Tendency towards co-occurrence(Significant)
+CCL4	GZMB	0.000023224975529202516	2.8466966943935033	Tendency towards co-occurrence(Significant)
+CCL4	PRF1	1.461912889773094e-16	4.738747032125042	Tendency towards co-occurrence(Significant)
+CCL4	GNLY	0.0006011416002436794	2.3604046638828717	Tendency towards co-occurrence(Significant)
+CCL4	HLA-A	0.7519041011843678	-Infinity	Tendency towards mutual exclusivity
+CCL4	HLA-B	0.7519041011843678	-Infinity	Tendency towards mutual exclusivity
+CCL4	HLA-C	0.85008715414167	-Infinity	Tendency towards mutual exclusivity
+CCL4	HLA-E	0.9603340292279495	-Infinity	Tendency towards mutual exclusivity
+CCL4	HLA-F	0.8854299461077834	-Infinity	Tendency towards mutual exclusivity
+CCL4	HLA-G	0.7519041011843678	-Infinity	Tendency towards mutual exclusivity
+CCL4	HLA-H	1	Infinity	Tendency towards co-occurrence
+CCL4	HLA-DMA	0.7833714534357269	-Infinity	Tendency towards mutual exclusivity
+CCL4	HLA-DMB	0.7833714534357269	-Infinity	Tendency towards mutual exclusivity
+CCL4	HLA-DOA	0.7519041011843678	-Infinity	Tendency towards mutual exclusivity
+CCL4	HLA-DOB	0.6925261620695918	-Infinity	Tendency towards mutual exclusivity
+CCL4	HLA-DPA1	0.0778382439007497	3.2386784521643803	Tendency towards co-occurrence
+CCL4	HLA-DPB1	0.9221617560991854	-Infinity	Tendency towards mutual exclusivity
+CCL4	HLA-DQA1	0.7216367750777165	-Infinity	Tendency towards mutual exclusivity
+CCL4	HLA-DQA2	0.6645304236031148	-Infinity	Tendency towards mutual exclusivity
+CCL4	HLA-DQB1	0.85008715414167	-Infinity	Tendency towards mutual exclusivity
+CCL4	HLA-DRA	0.5868352066670501	-Infinity	Tendency towards mutual exclusivity
+CCL4	HLA-DRB1	0.7216367750777165	-Infinity	Tendency towards mutual exclusivity
+CCL5	CXCL9	2.92356848879009e-7	3.5531233664673025	Tendency towards co-occurrence(Significant)
+CCL5	CXCL10	0.0007214505042388685	2.7124847981700757	Tendency towards co-occurrence(Significant)
+CCL5	CXCL11	6.231152069673222e-7	3.7245975367160153	Tendency towards co-occurrence(Significant)
+CCL5	GZMA	2.0345770263457543e-8	3.7999735016195233	Tendency towards co-occurrence(Significant)
+CCL5	GZMB	9.243266333612762e-7	3.63539076916295	Tendency towards co-occurrence(Significant)
+CCL5	PRF1	1.20685520243912e-10	4.437490905931007	Tendency towards co-occurrence(Significant)
+CCL5	GNLY	0.0008894476940157894	2.6457314367029516	Tendency towards co-occurrence(Significant)
+CCL5	HLA-A	0.8363263665488557	-Infinity	Tendency towards mutual exclusivity
+CCL5	HLA-B	0.8363263665488557	-Infinity	Tendency towards mutual exclusivity
+CCL5	HLA-C	0.9032022044731984	-Infinity	Tendency towards mutual exclusivity
+CCL5	HLA-E	0.9749478079328431	-Infinity	Tendency towards mutual exclusivity
+CCL5	HLA-F	0.9265608821740846	-Infinity	Tendency towards mutual exclusivity
+CCL5	HLA-G	0.8363263665488557	-Infinity	Tendency towards mutual exclusivity
+CCL5	HLA-H	1	Infinity	Tendency towards co-occurrence
+CCL5	HLA-DMA	0.8580962502767754	-Infinity	Tendency towards mutual exclusivity
+CCL5	HLA-DMB	0.8580962502767754	-Infinity	Tendency towards mutual exclusivity
+CCL5	HLA-DOA	0.8363263665488557	-Infinity	Tendency towards mutual exclusivity
+CCL5	HLA-DOB	0.7942978743075815	-Infinity	Tendency towards mutual exclusivity
+CCL5	HLA-DPA1	0.9504721307467258	-Infinity	Tendency towards mutual exclusivity
+CCL5	HLA-DPB1	0.9504721307467258	-Infinity	Tendency towards mutual exclusivity
+CCL5	HLA-DQA1	0.8150638318067265	-Infinity	Tendency towards mutual exclusivity
+CCL5	HLA-DQA2	0.774017928581793	-Infinity	Tendency towards mutual exclusivity
+CCL5	HLA-DQB1	0.9032022044731984	-Infinity	Tendency towards mutual exclusivity
+CCL5	HLA-DRA	0.7159915277864165	-Infinity	Tendency towards mutual exclusivity
+CCL5	HLA-DRB1	0.8150638318067265	-Infinity	Tendency towards mutual exclusivity
+CXCL9	CXCL10	8.23019262539259e-13	4.076605737884719	Tendency towards co-occurrence(Significant)
+CXCL9	CXCL11	6.8640847248903334e-12	4.071871706370042	Tendency towards co-occurrence(Significant)
+CXCL9	GZMA	1.5696700349920103e-7	2.781805377344705	Tendency towards co-occurrence(Significant)
+CXCL9	GZMB	0.0013862581628262297	2.1378011568654185	Tendency towards co-occurrence(Significant)
+CXCL9	PRF1	4.282326630613592e-8	2.970984103864797	Tendency towards co-occurrence(Significant)
+CXCL9	GNLY	0.2806008091585536	0.7449234500836652	Tendency towards co-occurrence
+CXCL9	HLA-A	0.6854630775765979	-Infinity	Tendency towards mutual exclusivity
+CXCL9	HLA-B	0.6854630775765979	-Infinity	Tendency towards mutual exclusivity
+CXCL9	HLA-C	0.8064552802140713	-Infinity	Tendency towards mutual exclusivity
+CXCL9	HLA-E	0.9478079331934303	-Infinity	Tendency towards mutual exclusivity
+CXCL9	HLA-F	0.8511590097146038	-Infinity	Tendency towards mutual exclusivity
+CXCL9	HLA-G	0.6854630775765979	-Infinity	Tendency towards mutual exclusivity
+CXCL9	HLA-H	1	Infinity	Tendency towards co-occurrence
+CXCL9	HLA-DMA	0.27628563461209416	1.3195311449602083	Tendency towards co-occurrence
+CXCL9	HLA-DMB	0.7237143653878503	-Infinity	Tendency towards mutual exclusivity
+CXCL9	HLA-DOA	0.3145369224232486	1.1349799328389847	Tendency towards co-occurrence
+CXCL9	HLA-DOB	0.3852995336653024	0.8428235799922825	Tendency towards co-occurrence
+CXCL9	HLA-DPA1	0.10176361142894026	2.9378382951350885	Tendency towards co-occurrence
+CXCL9	HLA-DPB1	0.8982363885700891	-Infinity	Tendency towards mutual exclusivity
+CXCL9	HLA-DQA1	0.6491567705020475	-Infinity	Tendency towards mutual exclusivity
+CXCL9	HLA-DQA2	0.5820036330196066	-Infinity	Tendency towards mutual exclusivity
+CXCL9	HLA-DQB1	0.8064552802140713	-Infinity	Tendency towards mutual exclusivity
+CXCL9	HLA-DRA	0.5063727969824027	0.42834940194175225	Tendency towards co-occurrence
+CXCL9	HLA-DRB1	0.6491567705020475	-Infinity	Tendency towards mutual exclusivity
+CXCL10	CXCL11	6.4619690730103915e-18	5.5093883366279774	Tendency towards co-occurrence(Significant)
+CXCL10	GZMA	0.0000023666879865598587	2.772588722239781	Tendency towards co-occurrence(Significant)
+CXCL10	GZMB	0.0003494385817696505	2.5079898199708737	Tendency towards co-occurrence(Significant)
+CXCL10	PRF1	4.066944962091292e-8	3.217875324534617	Tendency towards co-occurrence(Significant)
+CXCL10	GNLY	0.00574594485821577	2.0014800002101243	Tendency towards co-occurrence(Significant)
+CXCL10	HLA-A	0.24809589881559663	1.4359659709171282	Tendency towards co-occurrence
+CXCL10	HLA-B	0.24809589881559663	1.4359659709171282	Tendency towards co-occurrence
+CXCL10	HLA-C	0.85008715414167	-Infinity	Tendency towards mutual exclusivity
+CXCL10	HLA-E	0.9603340292279495	-Infinity	Tendency towards mutual exclusivity
+CXCL10	HLA-F	0.8854299461077834	-Infinity	Tendency towards mutual exclusivity
+CXCL10	HLA-G	0.24809589881559663	1.4359659709171282	Tendency towards co-occurrence
+CXCL10	HLA-H	1	Infinity	Tendency towards co-occurrence
+CXCL10	HLA-DMA	0.2166285465632372	1.6204877486206852	Tendency towards co-occurrence
+CXCL10	HLA-DMB	0.7833714534357269	-Infinity	Tendency towards mutual exclusivity
+CXCL10	HLA-DOA	0.7519041011843678	-Infinity	Tendency towards mutual exclusivity
+CXCL10	HLA-DOB	0.30747383792967653	1.1438688802562305	Tendency towards co-occurrence
+CXCL10	HLA-DPA1	0.0778382439007497	3.2386784521643803	Tendency towards co-occurrence
+CXCL10	HLA-DPB1	0.9221617560991854	-Infinity	Tendency towards mutual exclusivity
+CXCL10	HLA-DQA1	0.7216367750777165	-Infinity	Tendency towards mutual exclusivity
+CXCL10	HLA-DQA2	0.6645304236031148	-Infinity	Tendency towards mutual exclusivity
+CXCL10	HLA-DQB1	0.85008715414167	-Infinity	Tendency towards mutual exclusivity
+CXCL10	HLA-DRA	0.4131647933325442	0.7295148247308201	Tendency towards co-occurrence
+CXCL10	HLA-DRB1	0.7216367750777165	-Infinity	Tendency towards mutual exclusivity
+CXCL11	GZMA	3.6742597074372875e-8	3.266913826535079	Tendency towards co-occurrence(Significant)
+CXCL11	GZMB	0.0024621962947017034	2.2870809064580806	Tendency towards co-occurrence(Significant)
+CXCL11	PRF1	3.0197206846536534e-7	3.1470779024536406	Tendency towards co-occurrence(Significant)
+CXCL11	GNLY	0.029139136968215053	1.7244158971628751	Tendency towards co-occurrence(Significant)
+CXCL11	HLA-A	0.22475655091023425	1.55814461804655	Tendency towards co-occurrence
+CXCL11	HLA-B	0.22475655091023425	1.55814461804655	Tendency towards co-occurrence
+CXCL11	HLA-C	0.8650170671816859	-Infinity	Tendency towards mutual exclusivity
+CXCL11	HLA-E	0.9645093945718743	-Infinity	Tendency towards mutual exclusivity
+CXCL11	HLA-F	0.8970547363351787	-Infinity	Tendency towards mutual exclusivity
+CXCL11	HLA-G	0.22475655091023425	1.55814461804655	Tendency towards co-occurrence
+CXCL11	HLA-H	1	Infinity	Tendency towards co-occurrence
+CXCL11	HLA-DMA	0.01637397480007321	2.7256718024520294	Tendency towards co-occurrence(Significant)
+CXCL11	HLA-DMB	0.8041450689021291	-Infinity	Tendency towards mutual exclusivity
+CXCL11	HLA-DOA	0.7752434490898626	-Infinity	Tendency towards mutual exclusivity
+CXCL11	HLA-DOB	0.0368913419570094	2.159484249353372	Tendency towards co-occurrence(Significant)
+CXCL11	HLA-DPA1	0.0697932407997852	3.3608093207568674	Tendency towards co-occurrence
+CXCL11	HLA-DPB1	0.9302067592005642	-Infinity	Tendency towards mutual exclusivity
+CXCL11	HLA-DQA1	0.7473215452030075	-Infinity	Tendency towards mutual exclusivity
+CXCL11	HLA-DQA2	0.6942930100267053	-Infinity	Tendency towards mutual exclusivity
+CXCL11	HLA-DQB1	0.8650170671816859	-Infinity	Tendency towards mutual exclusivity
+CXCL11	HLA-DRA	0.37865228291849473	0.8517522107365839	Tendency towards co-occurrence
+CXCL11	HLA-DRB1	0.7473215452030075	-Infinity	Tendency towards mutual exclusivity
+GZMA	GZMB	0.000022103126939568176	2.5902671654458267	Tendency towards co-occurrence(Significant)
+GZMA	PRF1	1.5696700349920103e-7	2.781805377344705	Tendency towards co-occurrence(Significant)
+GZMA	GNLY	0.10436134670998057	1.1195676538440977	Tendency towards co-occurrence
+GZMA	HLA-A	0.345824959963521	1.0104779469338563	Tendency towards co-occurrence
+GZMA	HLA-B	0.05769393109332685	1.925931682124427	Tendency towards co-occurrence
+GZMA	HLA-C	0.7852802389628213	-Infinity	Tendency towards mutual exclusivity
+GZMA	HLA-E	0.9415448851765429	-Infinity	Tendency towards mutual exclusivity
+GZMA	HLA-F	0.8343602538974719	-Infinity	Tendency towards mutual exclusivity
+GZMA	HLA-G	0.05769393109332685	1.925931682124427	Tendency towards co-occurrence
+GZMA	HLA-H	1	Infinity	Tendency towards co-occurrence
+GZMA	HLA-DMA	0.30466338441051893	1.1950441735816346	Tendency towards co-occurrence
+GZMA	HLA-DMB	0.6953366155894848	-Infinity	Tendency towards mutual exclusivity
+GZMA	HLA-DOA	0.6541750400365325	-Infinity	Tendency towards mutual exclusivity
+GZMA	HLA-DOB	0.42121434301860805	0.7182913623609707	Tendency towards co-occurrence
+GZMA	HLA-DPA1	0.11360837169484687	2.8134107167600364	Tendency towards co-occurrence
+GZMA	HLA-DPB1	0.8863916283043733	-Infinity	Tendency towards mutual exclusivity
+GZMA	HLA-DQA1	0.07417600266004314	1.7413654554766484	Tendency towards co-occurrence
+GZMA	HLA-DQA2	0.4556951906692243	0.5982484387371496	Tendency towards co-occurrence
+GZMA	HLA-DQB1	0.7852802389628213	-Infinity	Tendency towards mutual exclusivity
+GZMA	HLA-DRA	0.03451422556472389	1.6661962462527091	Tendency towards co-occurrence(Significant)
+GZMA	HLA-DRB1	0.008247716393157785	2.3706175033858727	Tendency towards co-occurrence(Significant)
+GZMB	PRF1	0.000009563467643942513	2.7512128884059135	Tendency towards co-occurrence(Significant)
+GZMB	GNLY	4.332082500389061e-11	4.032025797822842	Tendency towards co-occurrence(Significant)
+GZMB	HLA-A	0.23650266377506346	1.4953246056666794	Tendency towards co-occurrence
+GZMB	HLA-B	0.23650266377506346	1.4953246056666794	Tendency towards co-occurrence
+GZMB	HLA-C	0.857527741925137	-Infinity	Tendency towards mutual exclusivity
+GZMB	HLA-E	0.0375782881001813	Infinity	Tendency towards co-occurrence(Significant)
+GZMB	HLA-F	0.8912297055797993	-Infinity	Tendency towards mutual exclusivity
+GZMB	HLA-G	0.025072632205346723	2.4336133554004498	Tendency towards co-occurrence(Significant)
+GZMB	HLA-H	1	Infinity	Tendency towards co-occurrence
+GZMB	HLA-DMA	0.20629837355087885	1.6798415530240696	Tendency towards co-occurrence
+GZMB	HLA-DMB	0.7937016264485232	-Infinity	Tendency towards mutual exclusivity
+GZMB	HLA-DOA	0.23650266377506346	1.4953246056666794	Tendency towards co-occurrence
+GZMB	HLA-DOB	0.2936846001893881	1.203237239746982	Tendency towards co-occurrence
+GZMB	HLA-DPA1	0.07382010988722719	3.298013145426925	Tendency towards co-occurrence
+GZMB	HLA-DPB1	0.926179890111954	-Infinity	Tendency towards mutual exclusivity
+GZMB	HLA-DQA1	0.2656190876143358	1.3389737049298187	Tendency towards co-occurrence
+GZMB	HLA-DQA2	0.05023120706348534	1.9570090421233621	Tendency towards co-occurrence
+GZMB	HLA-DQB1	0.857527741925137	-Infinity	Tendency towards mutual exclusivity
+GZMB	HLA-DRA	0.3961360931392533	0.788902893898038	Tendency towards co-occurrence
+GZMB	HLA-DRB1	0.2656190876143358	1.3389737049298187	Tendency towards co-occurrence
+PRF1	GNLY	0.0000014168287509864785	2.8526314299133175	Tendency towards co-occurrence(Significant)
+PRF1	HLA-A	0.6854630775765979	-Infinity	Tendency towards mutual exclusivity
+PRF1	HLA-B	0.3145369224232486	1.1349799328389847	Tendency towards co-occurrence
+PRF1	HLA-C	0.8064552802140713	-Infinity	Tendency towards mutual exclusivity
+PRF1	HLA-E	0.9478079331934303	-Infinity	Tendency towards mutual exclusivity
+PRF1	HLA-F	0.1488409902847601	2.24248116892434	Tendency towards co-occurrence
+PRF1	HLA-G	0.3145369224232486	1.1349799328389847	Tendency towards co-occurrence
+PRF1	HLA-H	1	Infinity	Tendency towards co-occurrence
+PRF1	HLA-DMA	0.27628563461209416	1.3195311449602083	Tendency towards co-occurrence
+PRF1	HLA-DMB	0.7237143653878503	-Infinity	Tendency towards mutual exclusivity
+PRF1	HLA-DOA	0.6854630775765979	-Infinity	Tendency towards mutual exclusivity
+PRF1	HLA-DOB	0.3852995336653024	0.8428235799922825	Tendency towards co-occurrence
+PRF1	HLA-DPA1	0.10176361142894026	2.9378382951350885	Tendency towards co-occurrence
+PRF1	HLA-DPB1	0.8982363885700891	-Infinity	Tendency towards mutual exclusivity
+PRF1	HLA-DQA1	0.6491567705020475	-Infinity	Tendency towards mutual exclusivity
+PRF1	HLA-DQA2	0.41799636698145204	0.7227958744820752	Tendency towards co-occurrence
+PRF1	HLA-DQB1	0.8064552802140713	-Infinity	Tendency towards mutual exclusivity
+PRF1	HLA-DRA	0.02542875208168102	1.800809304747973	Tendency towards co-occurrence(Significant)
+PRF1	HLA-DRB1	0.3508432294984902	0.9785946152103099	Tendency towards co-occurrence
+GNLY	HLA-A	0.7404620822530771	-Infinity	Tendency towards mutual exclusivity
+GNLY	HLA-B	0.2595379177463761	1.3796936770885386	Tendency towards co-occurrence
+GNLY	HLA-C	0.8426950919316811	-Infinity	Tendency towards mutual exclusivity
+GNLY	HLA-E	0.958246346555221	-Infinity	Tendency towards mutual exclusivity
+GNLY	HLA-F	0.8796554029803694	-Infinity	Tendency towards mutual exclusivity
+GNLY	HLA-G	0.2595379177463761	1.3796936770885386	Tendency towards co-occurrence
+GNLY	HLA-H	1	Infinity	Tendency towards co-occurrence
+GNLY	HLA-DMA	0.22684643508630828	1.5642203064408071	Tendency towards co-occurrence
+GNLY	HLA-DMB	0.7731535649131521	-Infinity	Tendency towards mutual exclusivity
+GNLY	HLA-DOA	0.2595379177463761	1.3796936770885386	Tendency towards co-occurrence
+GNLY	HLA-DOB	0.32102326283956345	1.087586818656402	Tendency towards co-occurrence
+GNLY	HLA-DPA1	0.9181523571595717	-Infinity	Tendency towards mutual exclusivity
+GNLY	HLA-DPB1	0.9181523571595717	-Infinity	Tendency towards mutual exclusivity
+GNLY	HLA-DQA1	0.7090865702934194	-Infinity	Tendency towards mutual exclusivity
+GNLY	HLA-DQA2	0.3499158899530444	0.9675840262617057	Tendency towards co-occurrence
+GNLY	HLA-DQB1	0.8426950919316811	-Infinity	Tendency towards mutual exclusivity
+GNLY	HLA-DRA	0.09805980192666784	1.5096733822803952	Tendency towards co-occurrence
+GNLY	HLA-DRB1	0.7090865702934194	-Infinity	Tendency towards mutual exclusivity
+HLA-A	HLA-B	0.9014889815379653	-Infinity	Tendency towards mutual exclusivity
+HLA-A	HLA-C	0.9426378293928883	-Infinity	Tendency towards mutual exclusivity
+HLA-A	HLA-E	0.9853862212939939	-Infinity	Tendency towards mutual exclusivity
+HLA-A	HLA-F	0.9567070507268833	-Infinity	Tendency towards mutual exclusivity
+HLA-A	HLA-G	0.9014889815379653	-Infinity	Tendency towards mutual exclusivity
+HLA-A	HLA-H	1	Infinity	Tendency towards co-occurrence
+HLA-A	HLA-DMA	0.9150306615173033	-Infinity	Tendency towards mutual exclusivity
+HLA-A	HLA-DMB	0.9150306615173033	-Infinity	Tendency towards mutual exclusivity
+HLA-A	HLA-DOA	0.9014889815379653	-Infinity	Tendency towards mutual exclusivity
+HLA-A	HLA-DOB	0.8749202141880217	-Infinity	Tendency towards mutual exclusivity
+HLA-A	HLA-DPA1	0.9709558791417535	-Infinity	Tendency towards mutual exclusivity
+HLA-A	HLA-DPB1	0.9709558791417535	-Infinity	Tendency towards mutual exclusivity
+HLA-A	HLA-DQA1	0.8881194415570166	-Infinity	Tendency towards mutual exclusivity
+HLA-A	HLA-DQA2	0.8618894875941836	-Infinity	Tendency towards mutual exclusivity
+HLA-A	HLA-DQB1	0.9426378293928883	-Infinity	Tendency towards mutual exclusivity
+HLA-A	HLA-DRA	0.8237904252942598	-Infinity	Tendency towards mutual exclusivity
+HLA-A	HLA-DRB1	0.8881194415570166	-Infinity	Tendency towards mutual exclusivity
+HLA-B	HLA-C	0.05736217060779251	3.2602310105501147	Tendency towards co-occurrence
+HLA-B	HLA-E	0.9853862212939939	-Infinity	Tendency towards mutual exclusivity
+HLA-B	HLA-F	0.9567070507268833	-Infinity	Tendency towards mutual exclusivity
+HLA-B	HLA-G	0.0037192586015339355	3.620600613360642	Tendency towards co-occurrence(Significant)
+HLA-B	HLA-H	1	Infinity	Tendency towards co-occurrence
+HLA-B	HLA-DMA	0.08496933848249845	2.745131876006742	Tendency towards co-occurrence
+HLA-B	HLA-DMB	0.9150306615173033	-Infinity	Tendency towards mutual exclusivity
+HLA-B	HLA-DOA	0.9014889815379653	-Infinity	Tendency towards mutual exclusivity
+HLA-B	HLA-DOB	0.12507978581243825	2.268683541318364	Tendency towards co-occurrence
+HLA-B	HLA-DPA1	0.9709558791417535	-Infinity	Tendency towards mutual exclusivity
+HLA-B	HLA-DPB1	0.9709558791417535	-Infinity	Tendency towards mutual exclusivity
+HLA-B	HLA-DQA1	0.8881194415570166	-Infinity	Tendency towards mutual exclusivity
+HLA-B	HLA-DQA2	0.8618894875941836	-Infinity	Tendency towards mutual exclusivity
+HLA-B	HLA-DQB1	0.05736217060779251	3.2602310105501147	Tendency towards co-occurrence
+HLA-B	HLA-DRA	0.013242338397040325	2.819212038324123	Tendency towards co-occurrence(Significant)
+HLA-B	HLA-DRB1	0.8881194415570166	-Infinity	Tendency towards mutual exclusivity
+HLA-C	HLA-E	0.9916492693104697	-Infinity	Tendency towards mutual exclusivity
+HLA-C	HLA-F	0.9751048195134093	-Infinity	Tendency towards mutual exclusivity
+HLA-C	HLA-G	0.057362170607740334	3.2602310105501147	Tendency towards co-occurrence
+HLA-C	HLA-H	1	Infinity	Tendency towards co-occurrence
+HLA-C	HLA-DMA	0.9506773844406006	-Infinity	Tendency towards mutual exclusivity
+HLA-C	HLA-DMB	0.9506773844406006	-Infinity	Tendency towards mutual exclusivity
+HLA-C	HLA-DOA	0.942637829392031	-Infinity	Tendency towards mutual exclusivity
+HLA-C	HLA-DOB	0.9267117989157535	-Infinity	Tendency towards mutual exclusivity
+HLA-C	HLA-DPA1	0.9833509490648339	-Infinity	Tendency towards mutual exclusivity
+HLA-C	HLA-DPB1	0.9833509490648339	-Infinity	Tendency towards mutual exclusivity
+HLA-C	HLA-DQA1	0.9346493732109624	-Infinity	Tendency towards mutual exclusivity
+HLA-C	HLA-DQA2	0.9188248899907504	-Infinity	Tendency towards mutual exclusivity
+HLA-C	HLA-DQB1	0.9669106613683506	-Infinity	Tendency towards mutual exclusivity
+HLA-C	HLA-DRA	0.10453400284639475	2.554208115630124	Tendency towards co-occurrence
+HLA-C	HLA-DRB1	0.0653506267890894	3.1039458581942236	Tendency towards co-occurrence
+HLA-E	HLA-F	0.9937369519834661	-Infinity	Tendency towards mutual exclusivity
+HLA-E	HLA-G	0.9853862212939939	-Infinity	Tendency towards mutual exclusivity
+HLA-E	HLA-H	1	Infinity	Tendency towards co-occurrence
+HLA-E	HLA-DMA	0.9874739039656691	-Infinity	Tendency towards mutual exclusivity
+HLA-E	HLA-DMB	0.9874739039656691	-Infinity	Tendency towards mutual exclusivity
+HLA-E	HLA-DOA	0.9853862212939939	-Infinity	Tendency towards mutual exclusivity
+HLA-E	HLA-DOB	0.9812108559504868	-Infinity	Tendency towards mutual exclusivity
+HLA-E	HLA-DPA1	0.9958246346550103	-Infinity	Tendency towards mutual exclusivity
+HLA-E	HLA-DPB1	0.9958246346550103	-Infinity	Tendency towards mutual exclusivity
+HLA-E	HLA-DQA1	0.9832985386231192	-Infinity	Tendency towards mutual exclusivity
+HLA-E	HLA-DQA2	0.9791231732780593	-Infinity	Tendency towards mutual exclusivity
+HLA-E	HLA-DQB1	0.9916492693113715	-Infinity	Tendency towards mutual exclusivity
+HLA-E	HLA-DRA	0.9728601252600608	-Infinity	Tendency towards mutual exclusivity
+HLA-E	HLA-DRB1	0.9832985386231192	-Infinity	Tendency towards mutual exclusivity
+HLA-F	HLA-G	0.9567070507268833	-Infinity	Tendency towards mutual exclusivity
+HLA-F	HLA-H	1	Infinity	Tendency towards co-occurrence
+HLA-F	HLA-DMA	0.962813691474719	-Infinity	Tendency towards mutual exclusivity
+HLA-F	HLA-DMB	0.962813691474719	-Infinity	Tendency towards mutual exclusivity
+HLA-F	HLA-DOA	0.9567070507268833	-Infinity	Tendency towards mutual exclusivity
+HLA-F	HLA-DOB	0.9445713410795115	-Infinity	Tendency towards mutual exclusivity
+HLA-F	HLA-DPA1	0.9875001091885132	-Infinity	Tendency towards mutual exclusivity
+HLA-F	HLA-DPB1	0.9875001091885132	-Infinity	Tendency towards mutual exclusivity
+HLA-F	HLA-DQA1	0.950626285573836	-Infinity	Tendency towards mutual exclusivity
+HLA-F	HLA-DQA2	0.9385421623074672	-Infinity	Tendency towards mutual exclusivity
+HLA-F	HLA-DQB1	0.9751048195142962	-Infinity	Tendency towards mutual exclusivity
+HLA-F	HLA-DRA	0.9206086709393742	-Infinity	Tendency towards mutual exclusivity
+HLA-F	HLA-DRB1	0.950626285573836	-Infinity	Tendency towards mutual exclusivity
+HLA-G	HLA-H	1	Infinity	Tendency towards co-occurrence
+HLA-G	HLA-DMA	0.0026753603589512293	3.845883202923601	Tendency towards co-occurrence(Significant)
+HLA-G	HLA-DMB	0.08496933848249845	2.745131876006742	Tendency towards co-occurrence
+HLA-G	HLA-DOA	0.9014889815379653	-Infinity	Tendency towards mutual exclusivity
+HLA-G	HLA-DOB	0.12507978581243825	2.268683541318364	Tendency towards co-occurrence
+HLA-G	HLA-DPA1	0.9709558791417535	-Infinity	Tendency towards mutual exclusivity
+HLA-G	HLA-DPB1	0.9709558791417535	-Infinity	Tendency towards mutual exclusivity
+HLA-G	HLA-DQA1	0.11188055844323218	2.404367787303988	Tendency towards co-occurrence
+HLA-G	HLA-DQA2	0.13811051240666442	2.1487430075219596	Tendency towards co-occurrence
+HLA-G	HLA-DQB1	0.9426378293928883	-Infinity	Tendency towards mutual exclusivity
+HLA-G	HLA-DRA	0.000516046624608665	3.5452977256359124	Tendency towards co-occurrence(Significant)
+HLA-G	HLA-DRB1	0.11188055844323218	2.404367787303988	Tendency towards co-occurrence
+HLA-H	HLA-DMA	1	Infinity	Tendency towards co-occurrence
+HLA-H	HLA-DMB	1	Infinity	Tendency towards co-occurrence
+HLA-H	HLA-DOA	1	Infinity	Tendency towards co-occurrence
+HLA-H	HLA-DOB	1	Infinity	Tendency towards co-occurrence
+HLA-H	HLA-DPA1	1	Infinity	Tendency towards co-occurrence
+HLA-H	HLA-DPB1	1	Infinity	Tendency towards co-occurrence
+HLA-H	HLA-DQA1	1.0000000000009095	Infinity	Tendency towards co-occurrence
+HLA-H	HLA-DQA2	1	Infinity	Tendency towards co-occurrence
+HLA-H	HLA-DQB1	1	Infinity	Tendency towards co-occurrence
+HLA-H	HLA-DRA	1	Infinity	Tendency towards co-occurrence
+HLA-H	HLA-DRB1	1.0000000000009095	Infinity	Tendency towards co-occurrence
+HLA-DMA	HLA-DMB	0.9267869441066964	-Infinity	Tendency towards mutual exclusivity
+HLA-DMA	HLA-DOA	0.9150306615181355	-Infinity	Tendency towards mutual exclusivity
+HLA-DMA	HLA-DOB	0.004534952631274604	3.505128304510387	Tendency towards co-occurrence(Significant)
+HLA-DMA	HLA-DPA1	0.9750788340424437	-Infinity	Tendency towards mutual exclusivity
+HLA-DMA	HLA-DPB1	0.9750788340424437	-Infinity	Tendency towards mutual exclusivity
+HLA-DMA	HLA-DQA1	0.9033989158211961	-Infinity	Tendency towards mutual exclusivity
+HLA-DMA	HLA-DQA2	0.11949518870067158	2.3332220624559357	Tendency towards co-occurrence
+HLA-DMA	HLA-DQB1	0.9506773844414652	-Infinity	Tendency towards mutual exclusivity
+HLA-DMA	HLA-DRA	0.1529285409470024	2.0390534807745477	Tendency towards co-occurrence
+HLA-DMA	HLA-DRB1	0.9033989158211961	-Infinity	Tendency towards mutual exclusivity
+HLA-DMB	HLA-DOA	0.9150306615181355	-Infinity	Tendency towards mutual exclusivity
+HLA-DMB	HLA-DOB	0.8918906493766781	-Infinity	Tendency towards mutual exclusivity
+HLA-DMB	HLA-DPA1	0.9750788340424437	-Infinity	Tendency towards mutual exclusivity
+HLA-DMB	HLA-DPB1	0.9750788340424437	-Infinity	Tendency towards mutual exclusivity
+HLA-DMB	HLA-DQA1	0.0035471186017885193	3.661422607880897	Tendency towards co-occurrence(Significant)
+HLA-DMB	HLA-DQA2	0.0056368079290680445	3.369448683347575	Tendency towards co-occurrence(Significant)
+HLA-DMB	HLA-DQB1	0.9506773844414652	-Infinity	Tendency towards mutual exclusivity
+HLA-DMB	HLA-DRA	0.8470714590529748	-Infinity	Tendency towards mutual exclusivity
+HLA-DMB	HLA-DRB1	0.09660108417993507	2.588837572636232	Tendency towards co-occurrence
+HLA-DOA	HLA-DOB	0.8749202141880217	-Infinity	Tendency towards mutual exclusivity
+HLA-DOA	HLA-DPA1	0.02904412085848542	4.363098624788362	Tendency towards co-occurrence(Significant)
+HLA-DOA	HLA-DPB1	0.9709558791417535	-Infinity	Tendency towards mutual exclusivity
+HLA-DOA	HLA-DQA1	0.8881194415570166	-Infinity	Tendency towards mutual exclusivity
+HLA-DOA	HLA-DQA2	0.8618894875941836	-Infinity	Tendency towards mutual exclusivity
+HLA-DOA	HLA-DQB1	0.9426378293928883	-Infinity	Tendency towards mutual exclusivity
+HLA-DOA	HLA-DRA	0.8237904252942598	-Infinity	Tendency towards mutual exclusivity
+HLA-DOA	HLA-DRB1	0.11188055844323218	2.404367787303988	Tendency towards co-occurrence
+HLA-DOB	HLA-DPA1	0.9627361745623151	-Infinity	Tendency towards mutual exclusivity
+HLA-DOB	HLA-DPB1	0.9627361745623151	-Infinity	Tendency towards mutual exclusivity
+HLA-DOB	HLA-DQA1	0.1417625865068298	2.112375363351085	Tendency towards co-occurrence
+HLA-DOB	HLA-DQA2	0.8257176708708541	-Infinity	Tendency towards mutual exclusivity
+HLA-DOB	HLA-DQB1	0.07328820108386519	2.9682754273209517	Tendency towards co-occurrence
+HLA-DOB	HLA-DRA	0.2210097935049534	1.5625209926463486	Tendency towards co-occurrence
+HLA-DOB	HLA-DRB1	0.858237413493486	-Infinity	Tendency towards mutual exclusivity
+HLA-DPA1	HLA-DPB1	0.9916580043851715	-Infinity	Tendency towards mutual exclusivity
+HLA-DPA1	HLA-DQA1	0.9668416593149474	-Infinity	Tendency towards mutual exclusivity
+HLA-DPA1	HLA-DQA2	0.958639424882615	-Infinity	Tendency towards mutual exclusivity
+HLA-DPA1	HLA-DQB1	0.9833509490657283	-Infinity	Tendency towards mutual exclusivity
+HLA-DPA1	HLA-DRA	0.946401586289006	-Infinity	Tendency towards mutual exclusivity
+HLA-DPA1	HLA-DRB1	0.03315834068537867	4.206822545648791	Tendency towards co-occurrence(Significant)
+HLA-DPB1	HLA-DQA1	0.9668416593149474	-Infinity	Tendency towards mutual exclusivity
+HLA-DPB1	HLA-DQA2	0.958639424882615	-Infinity	Tendency towards mutual exclusivity
+HLA-DPB1	HLA-DQB1	0.9833509490657283	-Infinity	Tendency towards mutual exclusivity
+HLA-DPB1	HLA-DRA	0.946401586289006	-Infinity	Tendency towards mutual exclusivity
+HLA-DPB1	HLA-DRB1	0.9668416593149474	-Infinity	Tendency towards mutual exclusivity
+HLA-DQA1	HLA-DQA2	0.0003492291323550873	3.6831487794049513	Tendency towards co-occurrence(Significant)
+HLA-DQA1	HLA-DQB1	0.0653506267890894	3.1039458581942236	Tendency towards co-occurrence
+HLA-DQA1	HLA-DRA	0.8011012822249292	-Infinity	Tendency towards mutual exclusivity
+HLA-DQA1	HLA-DRB1	0.006510455207619031	3.2516656476911914	Tendency towards co-occurrence(Significant)
+HLA-DQA2	HLA-DQB1	0.9188248899899147	-Infinity	Tendency towards mutual exclusivity
+HLA-DQA2	HLA-DRA	0.7574436688677876	-Infinity	Tendency towards mutual exclusivity
+HLA-DQA2	HLA-DRB1	0.15637088290664194	1.992430164690206	Tendency towards co-occurrence
+HLA-DQB1	HLA-DRA	0.8954659971540726	-Infinity	Tendency towards mutual exclusivity
+HLA-DQB1	HLA-DRB1	0.9346493732109624	-Infinity	Tendency towards mutual exclusivity
+HLA-DRA	HLA-DRB1	0.017385573218463745	2.6347189280166603	Tendency towards co-occurrence(Significant)

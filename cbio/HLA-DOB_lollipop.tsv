@@ -1,0 +1,10 @@
+Sample ID	Cancer Type	Protein Change	Annotation	Functional Impact	Mutation Type	Copy #	COSMIC	MS	VS	Center	Chromosome	Start Pos	End Pos	Ref	Var	Allele Freq (T)	Allele Freq (N)	Variant Reads	Ref Reads	Variant Reads (N)	Ref Reads (N)	# Mut in Sample
+TCGA-EE-A3AD-06		G242E			Missense_Mutation		1	Somatic	NA	broad.mit.edu	6	32781529	32781529	C	T			3	5	-1	-1	
+TCGA-D9-A6EG-06		G242E			Missense_Mutation		1	Somatic	NA	broad.mit.edu	6	32781529	32781529	C	T			11	3	-1	-1	
+TCGA-EE-A2GE-06		G46W			Missense_Mutation			Somatic	NA	broad.mit.edu	6	32783046	32783046	C	A			5	88	-1	-1	
+TCGA-EE-A29D-06		A100V			Missense_Mutation		2	Somatic	NA	broad.mit.edu	6	32782883	32782883	G	A			40	39	-1	-1	
+TCGA-ER-A19A-06		A100V			Missense_Mutation		2	Somatic	NA	broad.mit.edu	6	32782883	32782883	G	A			4	42	-1	-1	
+TCGA-DA-A1I2-06		G235R			Missense_Mutation		1	Somatic	NA	broad.mit.edu	6	32781551	32781551	C	T			3	3	-1	-1	
+TCGA-EE-A2MS-06		P150L			Missense_Mutation		1	Somatic	NA	broad.mit.edu	6	32782291	32782291	G	A			38	223	-1	-1	
+TCGA-EE-A2M5-06		S211F			Missense_Mutation		2	Somatic	NA	broad.mit.edu	6	32782108	32782108	G	A			17	47	-1	-1	
+TCGA-FW-A3R5-06		G161R			Missense_Mutation		1	Somatic	NA	broad.mit.edu	6	32782259	32782259	C	T			66	164	-1	-1	
